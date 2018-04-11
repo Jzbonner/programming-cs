@@ -8,8 +8,8 @@ An object is an entity that contains both data and behavior. In procedural progr
 
 Object Oriented Design | 
 --- |
-* _Data_ is referred to as attributes. Data stored within an object represents the state of the object. 
-* _Behaviors_ are referred to as methods. This is essentially what the data can do. In procedural programming the behavior is defined by procedures, functions and subroutines. In Object Oriented Programming these behaviors are contained in methods and you invoke a method by sending a message to it. 
+* __Data__ is referred to as attributes. Data stored within an object represents the state of the object. 
+* __Behaviors__ are referred to as methods. This is essentially what the data can do. In procedural programming the behavior is defined by procedures, functions and subroutines. In Object Oriented Programming these behaviors are contained in methods and you invoke a method by sending a message to it. 
 
 ![Diagram 1](https://github.com/Jzbonner/ProgrammingConcepts/blob/gh-pages/img-media/OOTP%20Ch.1%20Diagram%201.png)
 
