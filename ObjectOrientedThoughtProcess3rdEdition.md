@@ -11,7 +11,7 @@ Object Oriented Design |
 * _Data_ is referred to as attributes. Data stored within an object represents the state of the object. 
 * _Behaviors_ are referred to as methods. This is essentially what the data can do. In procedural programming the behavior is defined by procedures, functions and subroutines. In Object Oriented Programming these behaviors are contained in methods and you invoke a method by sending a message to it. 
 
-![Diagram 1](https://github.com/Jzbonner/ProgrammingConcepts/blob/gh-pages/img-media/OOvFP%20Ch.1%20Diagram%201.png)
+![Diagram 1](https://github.com/Jzbonner/ProgrammingConcepts/blob/gh-pages/img-media/OOTP%20Ch.1%20Diagram%201.png)
 
 > Procedural Programming normally separates the data of a system from the operation that manipulate the data. For example, if you want to send information across a network, only the relevant data is sent, with the expectation that the program at the other end of the network pipe knows what to do with the it. The fundamental advantage of Object Oriented programming is that data and the operations that manipulate the data (the code) are both encapsulated in the object.  
 
@@ -21,4 +21,5 @@ The concept of Getters and Setters supports the concept of data hiding. Because 
 
 ### Example of Concepts 
 
-![Diagram 2]()
+![Diagram 2](https://github.com/Jzbonner/ProgrammingConcepts/blob/gh-pages/img-media/OOTP%20Ch.1%20Diagram%202.png)
+
