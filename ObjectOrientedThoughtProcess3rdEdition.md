@@ -20,6 +20,82 @@ Object Oriented Design |
 The concept of Getters and Setters supports the concept of data hiding. Because other objects should not directly manipulate data within another object, the getters and setters provide controlled access to an object's data. Getters and Setters are sometimes referred to as accessor methods and mutator methods, respectively. 
 
 ### Example of Concepts 
-
 ![Diagram 2](https://github.com/Jzbonner/ProgrammingConcepts/blob/gh-pages/img-media/OOTP%20Ch.1%20Diagram%202.png)
 
+The above is a UML Class Diagram that consist of three main parts: the name itself, the data (attributes) and the behaviors (methods). As you can see the Employee class diagram contains the attributes _SocialSecurityNUmber_, _Gender_, and _DateofBirth_. While the method section contains the behaviors that operate on those attributes. For now think of classes as templates from which objects are made. When objects are created we say that the objects are _instantiated_ (i.e. creating three real world employees using the above class structure would result in three instances of the Employee class). As you can see a _class_ is a blueprint for an object. In Object Oriented Programming the class always comes before the object, meaning an object can not be instantiated without a class. An implementation of a class and object relationship would look as follows: 
+```java 
+public class Person {
+    //Attributes 
+    private String name; 
+    private String address; 
+
+    //Methods 
+    public String getName() {
+        return name; 
+    }
+
+    public void setName(String n) {
+        name = n;
+    }
+
+    public String getAddress() {
+        return address; 
+    }
+
+    public void setAddress(String adr) {
+        address = adr; 
+    }
+}
+```
+
+> When working in Java, a data type or method is defined as public, meaning other objects can directly access it. When a data type is defined as private, only that specified object can access it. In the person class, the behaviors `getName()`, `setName()`, `getAddress`, and `setAddress` allow other objects to inspect and change the values of the object's attributes. Messages are the communication mechanisms between objects. For instance when Object A invokes a method of Object B, it is really sending a message to Object B.
+
+(_Object Oriented Thought Process_, Ch.1)
+
+Let's take a look at another example of attributes, methods and messages in Java: 
+```java 
+public Class Payroll() {
+
+    String name; 
+
+    Person p = new Person(); // interaction with the previous Person class
+
+    String = p.setName("Joe"); // Message being sent to the Person class
+
+    ... code // additional code 
+
+    String = p.getName(); // Message being received from the Person class
+}
+```
+
+Encapsulation and Data Hiding | 
+--- | 
+
+In good Object Oriented Design an object should only reveal interfaces that other objects must have to interact with it. Details not pertinent to the use of the object should be hidden from all other objects. Essentially data hiding is a part of encapsulation. The basics of encapsulation involve _interface_ and _implementation_. 
+
+The interface defines the fundamental means of communication between objects. The interface should completely describe how users of the class interact with the class. In java, for example, the methods that are part of the interface are designated with the `public` keyword. Yes there are interfaces to classes as well as methods, however it is important to remember that interfaces to the classes are the public methods while the interface to the methods relate to how you can call or invoke them in other objects. 
+
+### Modeling Interface and Implementation Paradigms 
+Let's assume that we are attempting to write the code for a class that calculates the squares of integers. In order to do this we will need a proper interface and implementation. Take notice of two important things in the code snippet below, the interface used to prime the calculation of the square integer and return the squared value is made public so that it can be accessed by other objects. The actual implementation of calculating the square integer should only be seen by the intSquare class so it is made private. 
+```java 
+public class intSquare {
+
+    // private attribute that's only accessible to everything inside this class and nothing else
+    private int squareValue; 
+
+    // public interface 
+    public int getSquare(int value) {
+        squareValue = calculateSquare(value);
+        return squareValue; 
+    }
+
+    // private implementation
+    private int calculateSquare(int value) {
+        return value*value; 
+    }
+}
+```
+
+### Inheritance 
+One of the most powerful features of object oriented programming is code reuse. Object Oriented programming allows you to define relationships between classes that facilitate not only code reuse, but also better overall design. _Inheritance_ allows a class to inherit the attributes and methods of another class. 
+![Diagram 3]()
