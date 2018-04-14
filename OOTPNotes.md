@@ -112,5 +112,80 @@ Consider the following hierarchy:
 
 ![Diagram 4](https://github.com/Jzbonner/ProgrammingConcepts/blob/gh-pages/img-media/OOTP%20Ch.1%20Diagram%204.png)
 
-Clearly the _Circle_, _Square_, and _Star_ subclasses all inherit their interface through the _Shape_ superclass. This relationship is typically defined as an __is-a relationship__; because circle, square and star are all extensions of the _Shape_ class. Thus circle `is-a` shape, square `is-a` shape and star `is-a` shape. The `Draw()` method (derived from the shape superclass) for each of the subclasses should return a different response depending on the specific subclass. Instead of providing the implementation for the `Draw()` method in the Shape superclass you would relegate that responsibility to each individual subclass (i.e. your circle, square or star subclass). 
+Clearly the _Circle_, _Square_, and _Star_ subclasses all inherit their interface through the _Shape_ superclass. This relationship is typically defined as an __is-a relationship__; because circle, square and star are all extensions of the _Shape_ class. Thus circle `is-a` shape, square `is-a` shape and star `is-a` shape. The `Draw()` method (derived from the shape superclass) for each of the subclasses should return a different response depending on the specific subclass. Instead of providing the implementation for the `Draw()` method in the Shape superclass you would relegate that responsibility to each individual subclass (i.e. your circle, square or star subclass). Consider the following __Shape__ class and the `getArea()` method: 
 
+```java 
+public abstract class Shape() { // When a class is designated by the keyword 'abstract', a subclass must provide the implementation for the method 
+
+    private double area; 
+
+    public abstract double getArea(); // the public implementation that is left up to the subclasses to define 
+
+}
+
+// Code to represent the Circle and Square subclasses 
+
+public class Circle extends Shape { // The 'extends' keyword indicates that the Circle subclass inherits from the Shape superclass
+
+    double radius; 
+
+    public Circle(double r) { // This is a constructor 
+
+        radius = r; 
+
+    }
+
+    public double getArea() { // polymorphism right here. The 'getArea()' implementation from the Shape superclass is now defined here
+
+        area = 3.14*(radius*radius); 
+        return area; 
+
+    }
+}
+
+public class Rectangle extends Shape {
+
+    double length; 
+    double width; 
+
+    public Rectangle(double l, double w) {
+
+        length = l; 
+        width = w; 
+    }
+
+    public getArea() {
+
+        area = length*width; 
+        return area; 
+    }
+}
+
+// Instantiate the shape class by referencing the specific subclass and pointing to its specific constructor then defining the 'new' constructor; afterwards load the subclass shapes into a stack that references the superclass Shape and print the associated subclass areas from the stack. 
+
+Circle circle = new Circle(5); 
+Rectangle rectangle = new Rectangle(4,5); 
+
+stack.push(circle);
+stack.push(rectangle); 
+
+while (!stack.empty()) {
+
+    Shape shape = (Shape) stack.pop();
+    System.out.println("Area = " + shape.getArea()); 
+
+}
+```
+> A stack is a data structure that is last-in, first-out system. It is like a coin changer, where you insert coins at the top of the cylinder and, when you need a coin, you simply take one off the top; which is the last one you inserted. Pushing an item onto a stack means that you are adding an item to the top. Popping an item off the stack means you are taking the last item off the stack. 
+
+(_Object Oriented Thought Process_, Ch.1)
+
+As you can see from the above example, objects are often built or composed from other objects: in Object Oriented programming this is known as __Composition__. With regards to Object Oriented Programming there are only two ways to build classes from other classes: Inheritance and Composition. Inheritance allows one class to inherit from another class allowing the abstraction of attributes and behaviors for common classes. For instance dogs and cats are both mammals. Meaning that _dog_ is-a _mammal_ and _cat_ is-a _mammal_. 
+
+With composition we can build classes by embedding classes in other classes. If you look at the relationship between a Car and an Engine, it would make sense to abstract them so that you could utilize the Engine class in numerous Car classes. However you would not say that an Engine _is-a_ Car, instead you would say that the Car class _has-a_ Engine class. This is the idea behind composition. 
+
+* _is-a_ describes inheritance relationships 
+* _has-a_ describes composition relationships 
+
+## How to Think in Terms of Objects ~ Chapter 2
+~ Refer to notes on Github. 
