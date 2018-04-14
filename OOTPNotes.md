@@ -105,7 +105,7 @@ The superclass or parent class contains all attributes and behaviors that are co
 ### Is-A Relationships, Has-A Relationships and Inheritance/Composition 
 __Polymorphism__ is often tightly coupled with inheritance but distinctly it is of the defining principles of Object Oriented Programming. In an inheritance hierarchy all subclasses inherit their interfaces from their superclass. However, because each subclass is a separate entity, each might require a separate response to the same message. This is known as polymorphism. 
 
-Examples of with Shapes | 
+Examples of Polymorphism with Shapes | 
 --- |
 
 Consider the following hierarchy: 
