@@ -188,4 +188,21 @@ With composition we can build classes by embedding classes in other classes. If 
 * _has-a_ describes composition relationships 
 
 ## How to Think in Terms of Objects ~ Chapter 2
-~ Refer to notes on Github. 
+The most important principles when working with the Object Oriented paradigm include: 
+* Knowing the difference between the interface and implementation 
+* Thinking more abstractly 
+* Giving the user the minimal interface possible
+
+The services presented to an end user comprise the interface. The interface to a class should contain only what the user needs to know, however the most important aspect of identifying the interface is establishing the user and user case scenarios. 
+
+The implementation details involve encapsulation and hide the details from the user. 
+> A change to the implementation should not require a change to the user's code.
+
+(_Object Oriented Thought Process_, Ch. 2)
+
+The interface include the syntax to call a method and return a value. Both the user and implementation must conform to the interface specification. The following example paints a better picture of the association between interface and implementation. 
+
+### Database Reader Class (Java) 
+In creating a java class that is responsible for retrieving records from a database we setup a UML diagram like this: 
+
+![Diagram]()
