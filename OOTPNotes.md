@@ -209,4 +209,29 @@ In creating a java class that is responsible for retrieving records from a datab
 
 In this case the database reader class is intended for programmers who require use of a database; in essence the interface is essentially the application-programming interface (API) that the programmer will use. When working with the above UML diagram a better way to think about the usefulness of this application is from reviewing the user case scenarios. 
 
-![Diagram]()
+![Diagram](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.2%20Diagram%202.png)
+
+From observing the above user case scenarios you may set up a public class that resembles the following: 
+
+```java 
+public void open(String name) {
+
+    /* Some application-specific processing */
+    /* Call the SQLAnywhere API to open the database */ 
+    /* Some more application-specific processing */ 
+
+}
+```
+
+When designing a class, the rule of thumb is to always provide the user with as little knowledge of the inner workings of the class as possible. 
+
+* Give the users only what they absolutely need. In effect, this means the class has as few interfaces as possible. When you start designing a class, start with a minimal interface. The design of a class is iterative, so you will soon discover that the minimal set of interfaces might not suffice. 
+* Public interfaces define what the users can access. If you initially hide the entire class from the user by making the interfaces private, when programmers start using the class, you will be forced to make certain methods public - these methods thus become the public interface. 
+* It is vital to design classes from a user's perspective and not from an information systems viewpoint. Too often designers of classes design the class to make it fit into a specific technological model. Even if the designer takes a user's perspective, it is still probably a technician user's perspective, and the class is designed with an eye on getting it to work from a technology standpoint and not from ease of use for the user. 
+* Make sure when you are designing a class that you go over the requirements and the design with the people who will actually use it - not just developers. The class will most likely evolve and need to be updated when a prototype of the system is built. 
+
+In identifying the user the developer must also work to understand the object behavior. Understanding how a class or program will be interacted with will require you to understand environmental constraints. Essentially the interface provides the functionality and interactive while the implementation contains the code that represents the state of an object. 
+
+## Advanced Object-Oriented Concepts ~ Chapter 3
+~ Refer to notes on Github.
+
