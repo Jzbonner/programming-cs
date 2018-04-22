@@ -205,4 +205,8 @@ The interface include the syntax to call a method and return a value. Both the u
 ### Database Reader Class (Java) 
 In creating a java class that is responsible for retrieving records from a database we setup a UML diagram like this: 
 
+![Diagram](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.2%20Diagram%201.png)
+
+In this case the database reader class is intended for programmers who require use of a database; in essence the interface is essentially the application-programming interface (API) that the programmer will use. When working with the above UML diagram a better way to think about the usefulness of this application is from reviewing the user case scenarios. 
+
 ![Diagram]()
