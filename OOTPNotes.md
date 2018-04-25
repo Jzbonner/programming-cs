@@ -325,3 +325,4 @@ String name = firstName + "" + lastName;
 (_Object Oriented Thought Process_, Ch.3)
 
 ## The Anatomy of a Class ~ Chapter 4
+~ Refer to Notes on GitHub.
