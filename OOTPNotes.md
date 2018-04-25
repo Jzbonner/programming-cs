@@ -233,5 +233,75 @@ When designing a class, the rule of thumb is to always provide the user with as 
 In identifying the user the developer must also work to understand the object behavior. Understanding how a class or program will be interacted with will require you to understand environmental constraints. Essentially the interface provides the functionality and interactive while the implementation contains the code that represents the state of an object. 
 
 ## Advanced Object-Oriented Concepts ~ Chapter 3
-~ Refer to notes on Github.
+In Object Oriented Programming _constructors_ are methods that share the same name as the class and have no return type. Typically the compiler will recognize that the method name is identical to the class name and consider the method a constructor. Constructors are typically called in the following format: 
 
+```java 
+Cabbie myCabbie = new Cabbie();
+```
+
+The new keyword creates a new instance of the Cabbie class, thus allocating the required memory. Then the constructor itself is called, passing the arguments in the parameter list. If however a constructor is not provided for the Cabbie class will implement a default constructor; this is illustrated in the following example: 
+
+```java 
+public Cabbie() {
+    super();
+
+}
+```
+
+In the above case, Cabbie does not explicitly inherit from another class, the Object class will be the parent class. 
+
+> The rule of thumb is that you should always provide a constructor class, even if you do not plan on doing anything inside it. You can provide a constructor with nothing in it and then add to it later. Although there is technically nothing wrong with using the default constructor provided by the compiler, it is always nice to know exactly what your code looks like
+
+(_Object Oriented Thought Process_, Ch.3)
+
+### Overloading Methods 
+Overloading allows a programmer to use the same method name over and over, as long as the signature of the method is different each time. The signature consist of the method name and a parameter list. Thus the following methods all have different signatures: 
+
+```java 
+public void getCab(); 
+
+// different parameter list
+public void getCab(String cabbieName);
+
+// different parameter list
+public void getCab(int numberOfPassengers);
+
+/* The above case is useful to prevent errors in syntax such as the following */
+
+public void getCab(String cabbieName);
+
+public int getCab(String cabbieName); 
+``` 
+
+Here is a code segment of our DatabaseReader class that illustrates how the constructor would operate where overloading methods is necessary: 
+
+```java
+public class DatabaseReader { 
+    String dbName;
+    int startPosition; 
+
+    public DatabaseReader (String name) {
+        dbName = name; 
+        startPosition = 0;
+    };
+
+    public DatabaseReader (String name, int position)  {
+        dbName = name; 
+        startPosition = position; 
+    };
+
+};
+```
+
+![Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.3%20Diagram%201.png)
+
+### Error Handling 
+Constructors are used to ensure that the application is in a stable or safe state. For example, initializing an attribute to zero, when it is intended for use as a denominator in a division operation, might lead to an unstable application. 
+
+#### Checking for Problems and Aborting the Application
+You could choose to check for potential problems and abort the application when a problem is detected, the application can then display a message indicating that there is a problem. This isn't the most elegant case for the user but it does allow the system to clean up things and put itself in a more stable state, such as closing the file. 
+
+#### Checking for Problems and Attempting to Recover
+Checking for potential problems, catching the mistake, and attempting to recover is a far superior solution than simply checking for problems and aborting. Do remember that throwing an exception can be expensive in terms of overhead. Although they are a great design choice, you will still want to consider other error handling techniques, depending on your design and performance needs.  
+
+![Diagram 2]()
