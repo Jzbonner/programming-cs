@@ -304,4 +304,24 @@ You could choose to check for potential problems and abort the application when 
 #### Checking for Problems and Attempting to Recover
 Checking for potential problems, catching the mistake, and attempting to recover is a far superior solution than simply checking for problems and aborting. Do remember that throwing an exception can be expensive in terms of overhead. Although they are a great design choice, you will still want to consider other error handling techniques, depending on your design and performance needs.  
 
-![Diagram 2]()
+![Diagram 2](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.3%20Diagram%202.png)
+
+### Concept of Scope 
+Methods represent the behaviors of an object; the state of the object is represented by attributes. There are three types of attributes: 
+* Local Attributes - Local Attributes are owned by a specific method
+* Object Attributes - When dealing with objects the keyword `this` directs the compiler toa ccess the variables of the object and not the local variables within the method bodies0
+* Class Attributes - When dealing with class attributes the keyword `static` (in Java) signals the following attribute to be allocated to a single piece of memory. 
+
+### Operator Overloading 
+```java 
+String firstName = "joe", 
+String lastName = "smith";
+
+String name = firstName + "" + lastName; 
+```
+
+> String concatenation is when two separate strings are combined to create a new, single string
+
+(_Object Oriented Thought Process_, Ch.3)
+
+## The Anatomy of a Class ~ Chapter 4
