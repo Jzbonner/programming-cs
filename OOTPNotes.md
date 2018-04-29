@@ -325,4 +325,31 @@ String name = firstName + "" + lastName;
 (_Object Oriented Thought Process_, Ch.3)
 
 ## The Anatomy of a Class ~ Chapter 4
-~ Refer to Notes on GitHub.
+The name of the class is important for several reasons. The obvious reason is to identify the class itself but beyond simple identification the name must be descriptive. The name is also important when considering language constraints. For example in Java, the public class name must be the same name as the file name. If the names do not work the application will not work. 
+
+![Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.4%20Diagram%201.png)
+
+### Comments 
+Regardless to the syntax of comments used they are vital to understanding the function of a class. 
+
+### Attributes 
+Attributes represent the state of the object because they store the information about the object. Again the keywords _private_ and _static_ enable the developer to hide as much as data as possible from the user, ensuring a simplified and efficient interface to interact with the class without sacrificing the integrity of the data should always be a priority in class design. 
+* The _private_ keyword signifies that a method or variable can be accessed only within the declaring object 
+* The _statics_ keyword signifies that there will be only one copy of this attribute for all the objects instantiated by the class 
+
+### Constructors 
+~ Refer to previous notes on Constructors from Chapter 3. 
+
+> The Nothingness of Null: In many programming languages, the value null represents a value of nothing. This might seem like an esoteric concept, but setting an attribute to nothing is a useful programming technique. Checking for a variable for null can identify whether a value has been properly initialized. 
+
+### Accessors 
+A class should be very protective of its attributes. Developers should code with data integrity in mind and utilize certain methods during implementation such as _accessors_. These are usually referred to as getters and setters, and sometimes they're simply called get() and set(). 
+
+### Public Interface Methods 
+Both the constructors and the accessor methods are declared as public and are part of the public interface. They are singled out because of their specific importance to the construction of the class, however much of the real functionality of the class is provided in other methods. 
+
+### Private Implementation Methods 
+These private methods are simply meant to be part of the implementation and not the public interface. This makes them only accessible to the class instead of being accessible globally. 
+
+## Class Design Guidelines ~ Chapter 5 
+~ Refer to Notes on Github.
