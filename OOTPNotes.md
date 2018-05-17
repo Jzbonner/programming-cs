@@ -352,4 +352,23 @@ Both the constructors and the accessor methods are declared as public and are pa
 These private methods are simply meant to be part of the implementation and not the public interface. This makes them only accessible to the class instead of being accessible globally. 
 
 ## Class Design Guidelines ~ Chapter 5 
-~ Refer to Notes on Github.
+
+### Modeling Real World Systems 
+One of the primary goals of Object Oriented programming is to model real-world systems in ways similar to the ways in which people think. Designing classes is the object oriented approach to create these models. One of the primary mistakes in class creation is to construct one that has behavior but no class data. Ensure that your classes take advantage of the of the power of encapsulation. 
+
+### Identifying the Public Interface
+> The most important thing when designing a class is to keep the public interface to a minimum. The entire purpose of building a class is to build something useful and concise. The interface of a well designed object describes the services that the client wants accomplished. 
+
+(_Object Oriented Thought Process_, pg. 88)
+
+Even if the pubic interface of a class is insufficient for a certain application, object technology easily allows the capability to extend and adapt this interface by means of inheritance. If designed with inheritance in mind a new class can inherit from an existing class and create a new class with an extended interface. A class is most useful if the implementation should not necessitate a change in users' application code. 
+
+### Designing Robust Constructors and Destructors 
+When designing a class, one of the important design issues involves how the class will be constructed. Constructors should first and foremost put an object into an initial, safe state. This includes issues such as attribute initialization and memory management. You also need to make sure the object is constructed properly in the default condition. 
+
+For languages that include destructors it is most important to include proper clean-up functions. Without clean-up functions, memory leaks are possible. 
+* A _memory leak_ is when an object fails to properly release the memory that it acquired during an object's life cycle, the memory is lost to the entire operating system as long as the application that created the object is executing. 
+
+### Designing Error Handling into a Class 
+~ Refer to notes from Github. 
+
