@@ -369,6 +369,21 @@ When designing a class, one of the important design issues involves how the clas
 For languages that include destructors it is most important to include proper clean-up functions. Without clean-up functions, memory leaks are possible. 
 * A _memory leak_ is when an object fails to properly release the memory that it acquired during an object's life cycle, the memory is lost to the entire operating system as long as the application that created the object is executing. 
 
-### Designing Error Handling into a Class 
-~ Refer to notes from Github. 
+### Documenting a Class and Using Comments 
+One of the most crucial aspects of a good design, whether it's a design fro a class or something else, is to carefully document the process. 
+
+> Be aware that overcommenting can be a problem as well. Too much documentation and/nor commenting can become noise and may defeat the purpose of the documentation in the first place. Unfocused documentation is often ignored. 
+
+(_Object Oriented Thought Process_, Ch. 5)
+
+### Building Objects with the Intent to Cooperate 
+In most cases, there is no reason to build a class if it is not going to interact with other classes. This is simply a fact in the life of a class. A class will service other classes; it will request the services of other classes or both. When designing a class make sure you are aware of how other classes will interact with it.
+
+### Designing with Reuse in Mind 
+Objects can be reused in different systems, and code should be written with reuse in mind. 
+
+### Designing with Extensibility in Mind 
+Adding new features to a class might 
+
+
 
