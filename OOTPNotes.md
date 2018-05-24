@@ -383,7 +383,123 @@ In most cases, there is no reason to build a class if it is not going to interac
 Objects can be reused in different systems, and code should be written with reuse in mind. 
 
 ### Designing with Extensibility in Mind 
-Adding new features to a class might 
+Adding new features to a class might be as simple as extending an existing class, adding a few new methods, and modifying the behavior of others. Inheritance should always be the extensibility component behind your class design strategies. 
+
+#### Making Names Descriptive 
+Following a naming convention is important for your classes, attributes, and methods. It is important to not only follow a consistent naming convention but also to make names descriptive. It deters from overcommenting and allows those unfamiliar with your coding style to make sense of your coding development and implementation. 
+
+#### Keeping the Scope as Small as Possible 
+> Minimizing the scop of global variables is a good programming style and is not specific to Object Oriented Programming. Global variables are allowed in structure development, yet they can get dicey. In fact, there really is no global data in OO development. Static attributes and methods are shared among objects of the same class; however, they are not available to objects not of the class. 
+
+(_Object Oriented Thought Process_, Ch. 5)
+
+Example: The attribute temp is only needed within the scope of the `swap()` method. There is no reason for it to be at the class level.  
+
+```java 
+public class Math {
+
+    //int temp = 0; 
+    // as opposed to having the integer data type defined here, you should... 
+
+    public in swap(int a, int b) {
+
+        // define it here 
+        int temp = 0;
+
+        temp = a;
+        a = b;
+        b = temp; 
+
+        return temp; 
+    }
+}
+```
+
+### Designing with Maintainability in Mind 
+Designing useful and concise classes promotes a high level of maintainability. The process of designing classes forces you to organize your code into many manageable pieces. One of the best ways to promote maintainability is to reduce interdependent code. If the classes are designed properly, any changes to the system should only be made to the implementation of an object. changes to the public interface should be avoided at all cost. To promote a high level of maintainability, keep the coupling level of your classes as low as possible. 
+
+#### Using Iteration 
+The testing process is not simply confined to coding. Testing the design with walkthroughs and other design review techniques is very helpful. A good testing plan quickly uncovers any areas where insufficient interfaces are provided. In this way, the process can iterate until the class has the appropriate interfaces. 
+
+#### Testing the Interface 
+The minimal implementation of the interface are often called _stubs_. By using stubs you can test the interfaces without writing any real code. 
+
+You can see a real life example of this in Figure 5.8 seen below: 
+
+[Diagram 1]() 
+
+```java 
+public class DataBaseReader {
+
+    private String db[] = {"Record1", 
+        "Record2",
+        "Record3", 
+        "Record4", 
+        "Record5" 
+    }
+
+    private boolean DBOpen = false; 
+    private int pos; 
+
+    public void open(String Name) {
+        DBOpen = true; 
+    }
+
+    public void close() {
+        DBOpen = false; 
+    }
+
+    public void goToFirst() {
+        pos = 0; 
+    }
+
+    public void goToLast() {
+        pos = 4; 
+    }
+
+    public int howManyRecords() {
+        int numOfRecords = 5; 
+
+        return numOfRecords; 
+    }
+
+    public String getRecord(int key) {
+
+        /* DB Specific Implementation */
+        return db[key]; 
+
+    }
+
+    public String getNextRecord() {
+
+        /* DB Specific Implementation */
+        return db[pos++]
+    }
+}
+```
+
+The methods simulate the database calls. The strings within the array represent the records that will be written to the database. When the database is successfully integrated into the system, it will then be substituted for the array. 
+
+### Using Object Persistence 
+Persistence is the concept of maintaining the state of an object. When you run a program, if you don't save the object in some manner, the object simply dies, never to be recovered. These transient objects might work in some applications, but in most business systems, the state of the object must be saved for later use.  
+
+There are three primary storage devices to consider: 
+* Flat file system - You can store an object in a flat file by serializing the object. This has very limited use. 
+* Relational Database - Some sort of middleware is necessary to convert an object to a relational model. 
+* OO Database - This is the logical way to make objects persistent, but most companies have all their data in legacy systems and are just starting to explore object databases. Even brand-new OO applications must usually interface with legacy data.  
+
+### Serializing and Marshalling Objects 
+To send an object over a wire, the system must deconstruct the object, send it over the wire, and then reconstruct it on the other end of the wire. this process is called _serializing_ an object. The act of actually sending the object across a wire is called _marshalling_ an object. A serialized object can be written to a flat file and retrieved later, in the same state in which it was written. One of the problems with serialization is that it is often proprietary. The use XML is non-proprietary. 
+
+## Designing with Objects ~ Chapter 6
+~ Refer to Notes on Github. 
+
+
+
+
+
+
+
 
 
 
