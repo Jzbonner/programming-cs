@@ -492,11 +492,37 @@ There are three primary storage devices to consider:
 To send an object over a wire, the system must deconstruct the object, send it over the wire, and then reconstruct it on the other end of the wire. this process is called _serializing_ an object. The act of actually sending the object across a wire is called _marshalling_ an object. A serialized object can be written to a flat file and retrieved later, in the same state in which it was written. One of the problems with serialization is that it is often proprietary. The use XML is non-proprietary. 
 
 ## Designing with Objects ~ Chapter 6
-~ Refer to Notes on Github. 
+Generally a solid OO Design process will include the following steps: 
+1. Doing the proper analysis  
+2. Developing a statement of work that describes the system 
+3. Gathering the requirements from this statement of work 
+4. Developing a prototype for the user interface 
+5. Identifying the classes
+6. Determining the responsibilities for each class 
+7. Determining how the various classes interact with each other 
+8. Creating a high level model that describes the system to be built 
 
+__The Ongoing Design Process__ 
+> Despite the best intentions and planning, in all but the most trivial cases, the design is an ongoing process. Even after a product is in testing, design changes will pop up. It is up to the project manager to draw the line that says when to stop changing a product and adding features.
 
+(_Object Oriented Thought Process_, Ch. 6)
 
+The reason to identify requirements early and keep design changes to a minimum are as follows: 
+* The cost of a requirement/design change in the design phase is relatively small 
+* The cost of a design change in the implementation phase is significantly higher 
+* The cost of a design change after the deployment phase is astronomical when compared to the first item 
 
+__Safety vs. Economics__ 
+> Would you want to cross a bridge that has not been inspected and tested? Unfortunately with many software packages, users are left with responsibility of doing much of the testing. This is very costly for both the users and the software providers. Unfortunately, short term economics often seem to be the primary factor in making project decisions. 
+
+(_Object Oriented Thought Process_, Ch. 6)
+
+In an increasingly competitive market, high quality software, support services, and reputation are the competitive advantage. 
+
+[Diagram 1]() 
+
+__Software Engineering__
+> Although it might be acceptable to compare automobiles, bridges and software when discussing quality, the legal implications of these topics cannot be compared, at least not yet. The legal issues regarding software are currently being defined and revised. Currently disclaimers such as "we are not responsible for anything that this software does or causes to happen" abound. Some other industries do not have this luxury. As the software legal process evolves and matures, software manufacturers may well have to contend with these issues. 
 
 
 
