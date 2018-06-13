@@ -524,6 +524,27 @@ In an increasingly competitive market, high quality software, support services, 
 __Software Engineering__
 > Although it might be acceptable to compare automobiles, bridges and software when discussing quality, the legal implications of these topics cannot be compared, at least not yet. The legal issues regarding software are currently being defined and revised. Currently disclaimers such as "we are not responsible for anything that this software does or causes to happen" abound. Some other industries do not have this luxury. As the software legal process evolves and matures, software manufacturers may well have to contend with these issues. 
 
+There are a lot of variables involved in building a design and producing software products. The users must work hand-in-hand with the developers at all stages. In the analysis phase, the users and the developers must do the proper research and analysis to determine the statement of work, the requirements of the project and whether to actually do the project. 
+
+The _statement of work_ is a document that describes the system. Although determining the requirements is the ultimate goal of the analysis phase, at this point the requirements are not yet in a final format. The _SOW_ should give anyone who reads it a complete understanding of the system. Many customers create a _request-for-proposal_ for distribution; a statement that completely describes the system they want built and is then released to multiple vendors. The vendors then use this document to determine whether they should bid on the project, and if so, what price to charge.
+
+> In many ways the requirements are the most important part of the system. The _SOW_ might contain irrelevant material; however, the requirement are final representation of the system that must be implemented. All future documents in the software development process will be based on the requirements. 
+
+(_Object Oriented Thought Process_, Ch. 6)
+
+One of the best ways to make sure users and developers understand the system is to create a _prototype_. A prototype can be just about anything; however, most people consider the prototype to be a simulated user interface. By creating actual screens and screen flows, it is easier for people to get an idea of what they will be working with and what the system will feel like. In any event, the prototype will not contain all the functionality of the final system. 
+
+After the requirements are documented, the process of identifying classes can begin. After identifying a loose organization of classes you need to refine this list by explaining functionality and responsibility of each class. This includes the data that the class must store and what operations the class must perform. Most classes do not exist in isolation. Although a class must fulfill certain responsibilities, many times it wil have to interact with another class to get something it wants. This is where the messages between classes apply. The final step is _creating a class model to describe the system_. The class model shows how the various classes interact within the system. 
+
+### Case Study: Blackjack Example 
+
+Below is a UML Diagram that describes the necessary classes and relationships for building out a BlackJack Application: 
+
+[Diagram 2]() 
+
+## Mastering Inheritance and Composition ~ Chapter 7 
+~ Refer to Notes on Github
+
 
 
 
