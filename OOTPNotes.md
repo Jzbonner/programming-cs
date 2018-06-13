@@ -540,7 +540,7 @@ After the requirements are documented, the process of identifying classes can be
 
 Below is a UML Diagram that describes the necessary classes and relationships for building out a BlackJack Application: 
 
-[Diagram 2]() 
+[Diagram 2](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.6%20Diagram%202.png) 
 
 ## Mastering Inheritance and Composition ~ Chapter 7 
 ~ Refer to Notes on Github
