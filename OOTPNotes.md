@@ -426,7 +426,7 @@ The minimal implementation of the interface are often called _stubs_. By using s
 
 You can see a real life example of this in Figure 5.8 seen below: 
 
-[Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.5%20Diagram%201.png) 
+![Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.5%20Diagram%201.png) 
 
 ```java 
 public class DataBaseReader {
@@ -519,7 +519,7 @@ __Safety vs. Economics__
 
 In an increasingly competitive market, high quality software, support services, and reputation are the competitive advantage. 
 
-[Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.6%20Diagram%201.png) 
+![Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.6%20Diagram%201.png) 
 
 __Software Engineering__
 > Although it might be acceptable to compare automobiles, bridges and software when discussing quality, the legal implications of these topics cannot be compared, at least not yet. The legal issues regarding software are currently being defined and revised. Currently disclaimers such as "we are not responsible for anything that this software does or causes to happen" abound. Some other industries do not have this luxury. As the software legal process evolves and matures, software manufacturers may well have to contend with these issues. 
@@ -540,7 +540,7 @@ After the requirements are documented, the process of identifying classes can be
 
 Below is a UML Diagram that describes the necessary classes and relationships for building out a BlackJack Application: 
 
-[Diagram 2](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.6%20Diagram%202.png) 
+![Diagram 2](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.6%20Diagram%202.png) 
 
 ## Mastering Inheritance and Composition ~ Chapter 7 
 ~ Refer to Notes on Github
