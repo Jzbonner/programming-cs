@@ -551,7 +551,7 @@ __What Computer Are Not Good At and Model Complexity__
 > Obviously a computer model can only approximate real-world situations. Computers are good at number crunching but are not as good at more abstract operations. Adding classes to a model should not make it more complex. In larger systems, keeping things as simple as possible is usually the best practice. 
 
 __Aggregation, Association and Composition__ 
-> From my perspective, there are really only two ways to reuse classes - with inheritance or composition. Aggregation and association are considered two types of composition. 
+> From my perspective, there are really only two ways to reuse classes - with inheritance or composition. Aggregation and association are considered two types of composition.
 
 
 
