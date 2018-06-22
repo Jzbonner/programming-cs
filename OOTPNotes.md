@@ -543,7 +543,15 @@ Below is a UML Diagram that describes the necessary classes and relationships fo
 ![Diagram 2](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/gh-pages/img-media/OOTP%20Ch.6%20Diagram%202.png) 
 
 ## Mastering Inheritance and Composition ~ Chapter 7 
-~ Refer to Notes on Github
+Both _inheritance_ and _composition_ are mechanisms for reuse. Inheritance involves inheriting attributes and behaviors from other classes, and Composition involves building objects by using other objects. Inheritance represents the `is-a` parent/child relationship, but Composition doesn't involve a parent/child relationship but instead utilizes the `has-a` relationship. 
+
+The concept of __generalization-specialization__ is an important concept when using inheritance. The idea is that when you make your way down the inheritance tree things get more specific. The idea of inheritance is to go from the general to the specific by factoring out commonality. In theory factoring out as much commonality as possible is great, however, as in all design issues, it can lead to issues. 
+
+__What Computer Are Not Good At and Model Complexity__ 
+> Obviously a computer model can only approximate real-world situations. Computers are good at number crunching but are not as good at more abstract operations. Adding classes to a model should not make it more complex. In larger systems, keeping things as simple as possible is usually the best practice. 
+
+__Aggregation, Association and Composition__ 
+> From my perspective, there are really only two ways to reuse classes - with inheritance or composition. Aggregation and association are considered two types of composition. 
 
 
 
