@@ -553,6 +553,56 @@ __What Computer Are Not Good At and Model Complexity__
 __Aggregation, Association and Composition__ 
 > From my perspective, there are really only two ways to reuse classes - with inheritance or composition. Aggregation and association are considered two types of composition.
 
+__Model Complexity__ 
+> As with the inheritance problem of the barking and yodeling dogs (Ch.7, pg. 135), using too much composition can also lead to more complexity. There is a fine line between creating an object model that contains enough granularity to be sufficiently expressive and a model that is so granular that it is difficult to understand and maintain. 
+
+_Peter Coad_ and _Mark Mayfield_ make a case that when using inheritance; encapsulation is inherently weakened within a class hierarchy. They talk about a specific risk: Inheritance connotes strong encapsulation with other classes but weak encapsulation between a super class and its subclasses. The problem is that if you inherit from a superclass and then change that implementation, the change from the superclass ripples through the class hierarchy. 
+
+### A Detailed Example of Polymorphism 
+Designing a class for the purpose of creating totally independent objects is what OO is all about. In a well-designed system, an object should be able to answer all the important questions about it. As a rule, an object should be responsible for itself. This independence is one of the primary mechanisms of code reuse. 
+
+As a very simple example imagine that there are four classes: the abstract class _Shape_, and concrete classes Circle, Rectangle and Star. 
+
+```java 
+public abstract class Shape {
+    public abstract void draw();  
+}
+
+public class Circle extends Shape {
+    public void draw() {
+
+        System.out.println("I am drawing a Circle.")
+    } 
+}
+
+public class Rectangle extends Shape {
+    public void draw() {
+
+        System.out.println("I am drawing a Rectangle.")
+    } 
+}
+
+public class Star extends Shape {
+    public void draw() {
+
+        System.out.println("I am drawing a Star.")
+    } 
+}
+```
+
+Notice how the Shape class only contains one `draw()` method, and is not directly responsible for drawing any of the individual _shapes_. That responsibility is left up to the individual classes themselves. Similarly if you wanted to add a class that was responsible for drawing triangles, there would be no need to directly modify the Shape class, you would simply extend the Triangle class from Shape. 
+
+## Frameworks and Reuse: Designing with Interfaces and Abstract Classes ~ Chapter 8 
+Java interfaces and abstract classes are a powerful mechanism for code reuse, providing the foundation for a concept known as _contracts_. This chapter covers the topics of code reuse,
+frameworks, contracts, Java interfaces, and abstract classes.At the end of the chapter, we’ll
+work through an example of how all these concepts can be applied to a real-world situation. 
+
+### An E-Business Problem 
+~ Refer to Notes on Github. 
+
+
+
+
 
 
 
