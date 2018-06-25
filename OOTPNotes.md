@@ -598,7 +598,7 @@ frameworks, contracts, Java interfaces, and abstract classes.At the end of the c
 work through an example of how all these concepts can be applied to a real-world situation. 
 
 ### An E-Business Problem 
-
+~ Refer to Notes on Github. 
 
 
 
