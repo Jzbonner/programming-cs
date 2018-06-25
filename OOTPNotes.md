@@ -592,7 +592,7 @@ public class Star extends Shape {
 
 Notice how the Shape class only contains one `draw()` method, and is not directly responsible for drawing any of the individual _shapes_. That responsibility is left up to the individual classes themselves. Similarly if you wanted to add a class that was responsible for drawing triangles, there would be no need to directly modify the Shape class, you would simply extend the Triangle class from Shape. 
 
-## Frameworks and Reuse: Designing with Interfaces and Abstract Classes 
+## Frameworks and Reuse: Designing with Interfaces and Abstract Classes ~ Chapter 8 
 Java interfaces and abstract classes are a powerful mechanism for code reuse, providing the foundation for a concept known as _contracts_. This chapter covers the topics of code reuse,
 frameworks, contracts, Java interfaces, and abstract classes.At the end of the chapter, we’ll
 work through an example of how all these concepts can be applied to a real-world situation. 
