@@ -598,8 +598,13 @@ frameworks, contracts, Java interfaces, and abstract classes.At the end of the c
 work through an example of how all these concepts can be applied to a real-world situation. 
 
 ### An E-Business Problem 
-~ Refer to Notes on Github. 
+__The Scenario__ 
+>Let’s start our own Internet business. Let’s assume that we have a client, a small pizza shop called Papa’s Pizza. Despite the fact that it is a small, family-owned business, Papa realizes that a Web presence can help the business in many ways. Papa wants his customers to access his website, find out what Papa’s Pizza is all about, and order pizzas right from the comfort of their browsers. At the site we develop, customers will be able to access the website, select the products they want to order, and select a delivery option and time for delivery.They can eat their food at the restaurant, pick up the order, or have the order delivered. During this rollout period, Papa’s brother-in-law, who owns a donut shop called Dad’s Donuts, pays Papa a visit. Papa shows Dad the system, and Dad falls in love with it. The next day, Dad calls our company and asks us to develop a Web-based system for his donut shop.This is great, and exactly what we had hoped for. Now, how can we leverage the code that we used for the pizza shop in the system for the donut shop?
 
+### An E-Business Solution 
+We will begin by using a contract to factor out some of the commonality of the systems. In this case we will need to create an abstract class to factor out some of the implementation, and an interface to factor out some of the behavior. 
+
+Project Solution Goals: 
 
 
 
