@@ -605,7 +605,10 @@ __The Scenario__
 We will begin by using a contract to factor out some of the commonality of the systems. In this case we will need to create an abstract class to factor out some of the implementation, and an interface to factor out some of the behavior. 
 
 Project Solution Goals: 
-
+* An interface, called _Nameable_, which is part of the contract 
+* An abstract class called _Shop_, which is also part of the contract 
+* A class called _CustList_, which we use in composition 
+* A new implementation of _Shop_ for each customer we service
 
 
 
