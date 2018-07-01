@@ -610,6 +610,7 @@ Project Solution Goals:
 * A class called _CustList_, which we use in composition 
 * A new implementation of _Shop_ for each customer we service
 
+#### The UML Object Model 
 
 
 
