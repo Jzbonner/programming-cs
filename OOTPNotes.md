@@ -611,10 +611,98 @@ Project Solution Goals:
 * A new implementation of _Shop_ for each customer we service
 
 #### The UML Object Model 
-![Diagram 1]() 
+![Diagram 1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/master/img-media/OOTP%20Ch.8%20Diagram%201.png) 
 
+```java 
+public abstract class Shop {
 
+    CustList customerList;
 
+    public void CalculateSaleTax() {
+        System.out.println("Calculate Sales Tax");
+    }
+
+    public abstract String [] getInventory(); 
+    public abstract void buyInventory(String item); 
+}
+
+public class CustList {
+        String name; 
+
+        public String findCust() {
+            return name;
+        }
+
+        public void addCust(String name) {}
+    }
+
+public interface Nameable {
+    
+    public abstract String getName();
+    public abstract void setName(String name); 
+}
+
+public class DonutShop extends Shop implements Nameable {
+    String companyName; 
+
+    String[] menuItems = {
+        "Donuts", 
+        "Muffins", 
+        "Danish", 
+        "Coffee", 
+        "Tea" 
+    }; 
+ 
+    public String[] getInventory() {
+        return menuItems; 
+    }
+
+    public void buyInventory(String item) {
+        System.out.println("\n You have just purchased " + item); 
+    }
+
+    public String getName() {
+        return companyName; 
+    }
+
+    public void setName(String name) {
+        companyName = name; 
+    }
+}
+
+public class PizzaShop extends Shop implements Nameable {
+    String companyName; 
+
+    String[] foodOfferings = {
+        "Pizza", 
+        "Spaghetti", 
+        "Garden Salad", 
+        "Anitpasto", 
+        "Calzone" 
+    }; 
+ 
+    public String[] getInventory() {
+        return foodOfferings; 
+    }
+
+    public void buyInventory(String item) {
+        System.out.println("\n You have just purchased " + item); 
+    }
+
+    public String getName() {
+        return companyName; 
+    }
+
+    public void setName(String name) {
+        companyName = name; 
+    }
+}
+```
+
+> In this way, we can use the same application code for both PizzaShop and DonutShop. If we add a GroceryShop application, we only have to provide the implementation and the appropriate string to the main application. No application code needs to change. When designing classes and object models it is vitally important to understand how the objects are related to each other. 
+
+## Building Objects ~ Chapter 9 
+~ Refer to Notes on Github. 
 
 
 
