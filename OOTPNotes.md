@@ -611,6 +611,7 @@ Project Solution Goals:
 * A new implementation of _Shop_ for each customer we service
 
 #### The UML Object Model 
+![Diagram 1]() 
 
 
 
