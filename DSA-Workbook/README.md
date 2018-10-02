@@ -9,4 +9,4 @@ A data structure is a data organization, management and storage format that enab
 ## Algorithms 
 An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing, and automated reasoning task. 
 
-![Diagram22](https://media.wired.com/photos/5af2249a0b975d475fa7afbf/master/pass/algorithms_landlord-FINAL.jpg)
+![Diagram22](https://blog.pandorafms.org/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png)
