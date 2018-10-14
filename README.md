@@ -7,5 +7,5 @@ Information on Data Structures and Algorithms in the context of Computer Science
 ![Diagram1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Euclid%27s_algorithm_structured_blocks_1.png/176px-Euclid%27s_algorithm_structured_blocks_1.png)
 
 ## Object Oriented Programming: An Overview
-    * [Object Oriented Programming Concepts]()
+    * [Object Oriented Programming Concepts](https://github.com/Jzbonner/ProgrammingConcepts/tree/master/OOP-Concepts)
 A workspace environment for understanding the basics behind Object Oriented Programming, Functional Programming and other related concepts. Links to external resources and books can be found in the corresponding README. 
