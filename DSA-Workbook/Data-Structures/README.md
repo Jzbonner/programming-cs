@@ -5,8 +5,3 @@ This is a resource for learning more about the data structures and algorithms in
 A data structure is a data organization, management and storage format that enables efficient access and modification. It is a collection of data values, the relationships among them and the functions or operations that can be applied to the data. 
 
 ![Diagram1](https://cdn-images-1.medium.com/max/1500/1*qpZpG8Y87vfI_kCGVTBdoA.jpeg)
-
-## Algorithms 
-An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing, and automated reasoning task. 
-
-![Diagram22](https://blog.pandorafms.org/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png)
