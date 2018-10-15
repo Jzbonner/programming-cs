@@ -13,4 +13,4 @@ A hash function is a function that can be used to map a data set of an arbitrary
 * Uniform distribution: it should provide a uniform distribution across the hash table and should not result in clustering
 * Less collisions: collisions occur when pairs of elements are mapped to the same hash value; these should be avoided. 
 
-![Diagram1]()
+![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/hash-table.png)
