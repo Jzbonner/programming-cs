@@ -7,6 +7,39 @@ While priority queues are often implemented with heaps, they are conceptually di
 
 ![Diagram1](https://www.callicoder.com/assets/images/post/large/priority-queue-data-structure.jpg)
 
+#### Examples of Priority Queue in Javascript
+Code below was provided by: Mourner via [Github](https://github.com/mourner/tinyqueue) 🌎️ 
+```javascript 
+// create an empty priority queue
+var queue = new TinyQueue();
+
+// add some items
+queue.push(7);
+queue.push(5);
+queue.push(10);
+
+// remove the top item
+var top = queue.pop(); // returns 5
+
+// return the top item (without removal)
+top = queue.peek(); // returns 7
+
+// get queue length
+queue.length; // returns 2
+
+// create a priority queue from an existing array (modifies the array)
+queue = new TinyQueue([7, 5, 10]);
+
+// pass a custom item comparator as a second argument
+queue = new TinyQueue([{value: 5}, {value: 7}], function (a, b) {
+	return a.value - b.value;
+});
+
+// turn a queue into a sorted array
+var array = [];
+while (queue.length) array.push(queue.pop());
+```
+
 **Applications of Priority Queues** 
 * You can use a priority queue whenever you need to dynamically fetch the _next best_ or _next worst_ element. 
 * Used in Huffman coding (which is often used in lossless data compression)
