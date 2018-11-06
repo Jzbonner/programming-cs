@@ -5,7 +5,7 @@ Note: Priority Queues only support _comparable data_, meaning the data inserted 
 
 While priority queues are often implemented with heaps, they are conceptually distinct from heaps. A priority queue is an abstract concept like _a list or a map_; just as a list can be implemented with a linked list or an array, a priority queue can be implemented with a heap or a variety of other methods (i.e. unordered array).
 
-![Diagram1](https:/www.includehelp.com/ds/Images/priority-queue.jpg)
+![Diagram1](https://www.callicoder.com/assets/images/post/large/priority-queue-data-structure.jpg)
 
 **Applications of Priority Queues** 
 * You can use a priority queue whenever you need to dynamically fetch the _next best_ or _next worst_ element. 
