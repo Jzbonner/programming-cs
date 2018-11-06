@@ -40,4 +40,4 @@ for ( var i = 0, l = words.length; i < l; i++ ) {
 }&#91;/js&#93;
 ```
 
-![Diagram1]()
+![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/trie.png?raw=true)
