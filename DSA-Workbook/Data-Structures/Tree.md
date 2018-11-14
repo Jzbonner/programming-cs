@@ -1044,10 +1044,100 @@ A _Segment Tree_ is a data structure that can be used to perform range queries a
 ![Diagram](https://cdn-images-1.medium.com/max/1600/1*A5pXA5_8iuxHYbgTqltLGA.png)
 
 **Applications of Segment Tree** 
-Segment Trees are useful whenever you're frequently working with ranges of numerical data. Common use cases for Segment Trees include: 
+Segment Trees are useful whenever you're frequently working with ranges of numerical data. The Segment Tree is an amazing data structure when you have search heavy application that performs a lot of specific range inquiries on a data set. Common use cases for Segment Trees include: 
 1. Sum all elements in a range 
 2. Find the min or max value of elements in a range 
 3. Update all elements in a range 
+
+Example of Segment Tree Implementation in Javascript 
+```javascript 
+export default class SegmentTree {
+  /**
+   * @param {number[]} inputArray
+   * @param {function} operation - binary function (i.e. sum, min)
+   * @param {number} operationFallback - operation fallback value (i.e. 0 for sum, Infinity for min)
+   */
+  constructor(inputArray, operation, operationFallback) {
+    this.inputArray = inputArray;
+    this.operation = operation;
+    this.operationFallback = operationFallback;
+
+    // Init array representation of segment tree.
+    this.segmentTree = this.initSegmentTree(this.inputArray);
+
+    this.buildSegmentTree();
+  }
+
+  /**
+   * @param {number[]} inputArray
+   * @return {number[]}
+   */
+  initSegmentTree(inputArray) {
+    let segmentTreeArrayLength;
+    const inputArrayLength = inputArray.length;
+
+    if (isPowerOfTwo(inputArrayLength)) {
+      // If original array length is a power of two.
+      segmentTreeArrayLength = (2 * inputArrayLength) - 1;
+    } else {
+      // If original array length is not a power of two then we need to find
+      // next number that is a power of two and use it to calculate
+      // tree array size. This is happens because we need to fill empty children
+      // in perfect binary tree with nulls.And those nulls need extra space.
+      const currentPower = Math.floor(Math.log2(inputArrayLength));
+      const nextPower = currentPower + 1;
+      const nextPowerOfTwoNumber = 2 ** nextPower;
+      segmentTreeArrayLength = (2 * nextPowerOfTwoNumber) - 1;
+    }
+
+    return new Array(segmentTreeArrayLength).fill(null);
+  }
+
+  /**
+   * Build segment tree.
+   */
+  buildSegmentTree() {
+    const leftIndex = 0;
+    const rightIndex = this.inputArray.length - 1;
+    const position = 0;
+    this.buildTreeRecursively(leftIndex, rightIndex, position);
+  }
+
+  /**
+   * Build segment tree recursively.
+   *
+   * @param {number} leftInputIndex
+   * @param {number} rightInputIndex
+   * @param {number} position
+   */
+  buildTreeRecursively(leftInputIndex, rightInputIndex, position) {
+    // If low input index and high input index are equal that would mean
+    // the we have finished splitting and we are already came to the leaf
+    // of the segment tree. We need to copy this leaf value from input
+    // array to segment tree.
+    if (leftInputIndex === rightInputIndex) {
+      this.segmentTree[position] = this.inputArray[leftInputIndex];
+      return;
+    }
+
+    // Split input array on two halves and process them recursively.
+    const middleIndex = Math.floor((leftInputIndex + rightInputIndex) / 2);
+    // Process left half of the input array.
+    this.buildTreeRecursively(leftInputIndex, middleIndex, this.getLeftChildIndex(position));
+    // Process right half of the input array.
+    this.buildTreeRecursively(middleIndex + 1, rightInputIndex, this.getRightChildIndex(position));
+
+    // Once every tree leaf is not empty we're able to build tree bottom up using
+    // provided operation function.
+    this.segmentTree[position] = this.operation(
+      this.segmentTree[this.getLeftChildIndex(position)],
+      this.segmentTree[this.getRightChildIndex(position)],
+    );
+  }
+}
+```
+---
+##### Fenwick Tree 
 
 
 
