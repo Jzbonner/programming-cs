@@ -1,5 +1,5 @@
 # Object Oriented Programming ~ A Glance. 
-Notes and Information taken from the book entitled *Practical Object-Oriented Design* in Ruby by Sandi Metz. 
+Notes and Information taken from the book entitled *Practical Object-Oriented Design in Ruby* by Sandi Metz. 
 
 ## Chapter 1 - Object Oriented Design 
 When referencing Object Oriented applications, developers see them as consisting of two concepts: parts and how those parts interact with each other. Typically, a part is an object. Some OO applications have numerous parts and others have only a few, but these parts typically communicate by sending messages; which is how they interact with each other. Software development as a whole is defined by how you, the developer, arrange your code. 
