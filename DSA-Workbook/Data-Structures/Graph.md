@@ -159,3 +159,8 @@ class Graph {
   }
 }
 ```
+
+### Representation 
+There are different ways of representing a graph, each of them with its own advantages and disadvantages: 
+* Adjacency list - For every vertex a list of adjacent vertices is stored. This can be viewed as storing the list of edges. This data structure allows storage of additional data on vertices and edges
+* Adjacency matrix - Data is stored in a two-dimensional matrix, in which the row represents source vertices and columns represent destination vertices. The data on the edges and vertices must be stored externally
