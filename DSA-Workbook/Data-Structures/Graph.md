@@ -15,7 +15,7 @@ A _Graph_ can have cycles which means that if you traverse through the node, you
 When edges have values attached to them, this is known as a **Weighted Graph**. If the weight is absent, we can assume the value is 1. Below are some common applications of _weighted graphs_ in industry: 
 
 * Airline Traffic 
-    * Node/Vertex = Airport 
+    * Node = Airport 
     * Edges = Direct flights between two airports 
     * Weight = Miles between two airports 
 * GPS Navigation 

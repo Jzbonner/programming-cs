@@ -57,5 +57,10 @@ function main (numNodes, edges) {
 }
 ```
 
+**Common Applications of Disjoint-Sets** 
+1. Can be used for implementing [Kruskal's Algorithm](https://en.wikipedia.org/wiki/Kruskal's_algorithm) to find the minimum spanning tree of a graph 
+2. Maze generation 
+3. Connected component labeling
+4. Alias Analysis 
 
 
