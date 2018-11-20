@@ -1,0 +1,2 @@
+## Bloom Filter 
+A **Bloom Filter** is a data structure designed to tell you, rapidly and memory efficiently, whether an element is present in a set. A *Bloom Filter* is a probabilistic data structure in that it tells us that the element either _definitely is not_ in the set or _may be_ in the set. The base data structure of a Bloom Filter is a **Bit Vector** 
