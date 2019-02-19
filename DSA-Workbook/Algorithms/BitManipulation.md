@@ -71,4 +71,17 @@ leftmostOne >>> 2; //0b00111111111111111111111111111100
 leftmostZero >>> 2; //0b00011111111111111111111111111100
 ```
 
-![Diagram2]()
+![Diagram2](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/master/img-media/right-shift.png)
+ 
+### Bit Mask 
+A **Bit Mask** is a set of bits where the desired bits are 1s and the others are 0. We use these masks to perform operations against other binary numbers. In essence a mask defines which bits you want to keep and which bits you want to clear. _Bit Masking_ is the act of applying a mask to a value. 
+
+```javascript 
+const setBit = (num, position) => {
+  let mask = 1 << position
+  return num | mask
+}
+
+// Set the bit at position 1
+setBit(12, 1) // return 14 -> 1110
+```
