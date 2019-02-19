@@ -54,5 +54,21 @@ const result = foo << 1; //42
 result.toString(2); //'101010' 
 ```
 
-![Diagram1]()
+![Diagram1](https://raw.githubusercontent.com/Jzbonner/ProgrammingConcepts/master/img-media/left-shift.png)
 
+
+**Right Shift (>>)** 
+The _Right Shift_ also causes a binary representation to the right, but always adds in 0s to the left, no matter what is the leftmost bit. 
+
+```javascript 
+const leftmostOne = 0b11111111111111111111111111110000;
+const leftmostZero = 0b01111111111111111111111111110000;
+
+// This will fill-in 0's in the left
+leftmostOne >>> 2; //0b00111111111111111111111111111100
+
+// This will also fill-in 0's in the left
+leftmostZero >>> 2; //0b00011111111111111111111111111100
+```
+
+![Diagram2]()
