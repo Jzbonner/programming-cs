@@ -41,4 +41,18 @@ result.toString(2); // '110'
 ```
 
 **NOT (~)** 
-* Bitwise _NOT_ inverts an operand, just as you'd expect it finds a 1 and turns it into a 0. This transforms positive numbers into negative numbers and vice versa. The _NOT_ operator is applied to each bit of a number individually. This means that 0111 would become 1000 (<- this is also known as one's compliment). 
+* Bitwise _NOT_ inverts an operand, just as you'd expect it finds a 1 and turns it into a 0. This transforms positive numbers into negative numbers and vice versa. The _NOT_ operator is applied to each bit of a number individually. This means that 0111 would become 1000 (this is also known as one's compliment). 
+
+**Left Shift (<<)** 
+Left shift causes a binary representation, which goes into the left side of the operator, to be shifted by the number of bits specified on the right side of the operator. It will add in 0s at the right when shifting. 
+
+```javascript 
+const foo = 0b10101; //21
+
+const result = foo << 1; //42
+
+result.toString(2); //'101010' 
+```
+
+![Diagram1]()
+
