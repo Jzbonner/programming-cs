@@ -24,4 +24,4 @@ const isPrime = num => {
 }
 ```
 
-![Diagram1]()
+![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/primality.jpeg?raw=true)
