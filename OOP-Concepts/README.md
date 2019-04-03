@@ -1,4 +1,4 @@
-# Resources for Javascript Fundamentals 
+# Resources and References for Javascript Fundamentals 
 1. [Object Oriented Programming Overview](https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330)
 2. [Object Oriented vs Functional Programming](https://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp)
 3. [Object Oriented Thought Process](https://www.amazon.com/Object-Oriented-Thought-Process-Developers-Library/dp/0321861272)
