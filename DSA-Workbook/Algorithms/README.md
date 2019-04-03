@@ -4,7 +4,7 @@ This is a resource for learning more about the data structures and algorithms in
 ## Algorithms 
 An algorithm is an unambiguous specification of how to solve a class of problems. Algorithms can perform calculation, data processing, and automated reasoning task. 
 
-![Diagram1]() 
+![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/algorithm.png?raw=true) 
 
 ### Concepts and Implementations
 * [BitManipualtion]()
