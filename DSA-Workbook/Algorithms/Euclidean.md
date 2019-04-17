@@ -11,9 +11,32 @@ The `mod` operation gives you the remainder when two positive integers are divid
 14 / 2 = 7 
 
 /* the operation below provides the remainder */
-14 mod 2 = 0
+14 % 2 = 0
 ```
 
 ![Diagram2](https://i.imgur.com/aa8oGgP.png)
 
-There are different ways to implement the Euclidean Algorithm in Javascript, one example can be seen below: 
+There are different ways to implement the Euclidean Algorithm in Javascript, typically this dont through the use of a while loop but the same result can also be achieved via recursion. See below for example of each:  
+
+```javascript 
+/* non recursive method */
+function gcd(a, b) {
+    var R; 
+    while ((a % b) > 0) {
+        R = a % b; 
+        a = b; 
+        b = R; 
+    }
+
+    return b; 
+}
+
+/* recursive method */
+function gcd(a, b) {
+    if (b == 0) {
+        return a; 
+    } else {
+        return gcd(b, (a % b)); 
+    }
+}
+```
