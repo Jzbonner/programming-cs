@@ -7,10 +7,20 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 ![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/algorithm.png?raw=true) 
 
 ### Concepts and Implementations
-* [BitManipualtion]()
-* [Factorial]() 
-* [Fibonacci Numbers]() 
-* [Primality Test]() 
-* [Euclidean]() 
+* [BitManipualtion](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/DSA-Workbook/Algorithms/BitManipulation.md) 
+* [Factorial](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/DSA-Workbook/Algorithms/Factorial.md) 
+* [Fibonacci Numbers](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/DSA-Workbook/Algorithms/FibonacciNumber.md) 
+* [Primality Test](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/DSA-Workbook/Algorithms/PrimalityTest.md) 
+* [Euclidean](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/DSA-Workbook/Algorithms/Euclidean.md) 
+* [Least Common Multiples]() 
+* [Sieve of Eratosthenese]() 
+* [Is Power of Two]()  
+* [Pascal's Triangle]() 
+* [Complex Number]() 
+* [Radian and Degree]() 
+* [Fast Powering]() 
+* [Integer Partition]() 
+* [Liu Hui Algorithm]() 
+* [Discrete Fourier Transform]()
 
 
