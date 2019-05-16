@@ -9,3 +9,31 @@ The Sieve of Eratosthenes is a simple algorithm for identifying prime numbers up
 * see that 8-10 are marked and skip them
 * move to 11, note 11 as prime
 * move to 12, see that it is marked and skip it
+
+### Implementation 
+There are a number of ways to implement this algorithm in JavaScript. Below is an example which uses a limit variable and `isPrime` functionality: 
+
+```javascript 
+function generatePrimes() {
+    const markedNotPrime = {};
+    let valueToCheck = 2;
+    while(true) {
+        if (!(valueToCheck in markedNotPrime)) {
+            yield valueToCheck
+            markedNotPrime[valueToCheck**2] = [valueToCheck]
+        } else {
+            let primes =markedNotPrime[valueToCheck];
+            primes.forEach(prime=> {
+                let nextMultipleOfPrime = prime + valueToCheck;
+                if (nextMultipleOfPrime in markedNotPrime) {
+                    markedNotPrime[nextMultipleOfPrime].push(prime);
+                } else {
+                    markedNotPrime[nextMultipleOfPrime] = [prime];
+                }
+            })
+            delete markedNotPrime[valueToCheck];
+        }
+        valueToCheck += 1
+    }
+}
+```
