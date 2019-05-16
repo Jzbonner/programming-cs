@@ -11,4 +11,4 @@ An algorithm is an unambiguous specification of how to solve a class of problems
 
 * [Link to Notes on Algorithms](https://github.com/Jzbonner/ProgrammingConcepts/tree/master/DSA-Workbook/Algorithms)
 
-<div style="text-align: center"><img src="https://malalanayake.files.wordpress.com/2014/09/collections.jpg" alt="diagram" text-align="center" width="400"/></div>
+<p align="center"><img src="https://malalanayake.files.wordpress.com/2014/09/collections.jpg" alt="diagram" text-align="center" width="400"/></p>
