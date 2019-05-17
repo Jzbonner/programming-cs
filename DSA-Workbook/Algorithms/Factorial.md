@@ -1,12 +1,12 @@
 ## Factorial 
-Whe you factorialize a number you are multiplying that number by each consecutive number minus one. For instance the Factorialization of 5 would look like: 
+When you factorialize a number you are multiplying that number by each consecutive number minus one. For instance the Factorialization of 5 would look like: 
 
 ```
 5! = 5 x 4 x 3 x 2 x 1 ==> 120 
 ```
 
 ### Theoretical and Real Life Use
-In Javascript Factorials are typically written in either an iterative or recursive process. The iterative methods employ the use of a FOR or WHILE loop, while the recursive method can employ memoization for maximum efficiency. Let's look at the instance of using a FOR loop to factorialize a number *(num)*: 
+In JavaScript Factorials are typically written in either an iterative or recursive process. The iterative methods employ the use of a FOR or WHILE loop, while the recursive method can employ memoization for maximum efficiency. Let's look at the instance of using a FOR loop to factorialize a number *(num)*: 
 
 ```javascript 
 function factorialize(num) {
@@ -65,7 +65,7 @@ function factorialize(num) {
 }
 factorialize(5);
 ```
-The results from each of the above examples can also be accomplished in a recursive format as well. In Javascript, *recursion* simply means calling a function on itself. Refer to the following for a coded example: 
+The results from each of the above examples can also be accomplished in a recursive format as well. In JavaScript, *recursion* simply means calling a function on itself. Refer to the following for a coded example: 
 
 ```javascript 
 function factorialize(num) {
