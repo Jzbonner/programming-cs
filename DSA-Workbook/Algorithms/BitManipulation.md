@@ -2,7 +2,7 @@
 Computers operate with binary digits (i.e. 1s and 0s). At the lower levels of computing, everything is in machine code - which is a stream of raw, usually binary data. The computer uses encodings such as UTF-8 to map saved bit combinations to characters, digits or different symbols. 
 
 ### Bitwise Operators
-Bit manipulation in Javascript employs the use of *bitwise operators*, these operands are converted into signed 32 bit integers. 
+Bit manipulation in JavaScript employs the use of *bitwise operators*, these operands are converted into signed 32 bit integers. 
 
 **And (&)** 
 * Bitwise _AND_, when applied to a single binary digit returns 1 if both digits are 1. When applied to two binary numbers it will return 1 whenever the corresponding bits of both are 1. 
