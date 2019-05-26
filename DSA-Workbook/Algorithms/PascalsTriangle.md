@@ -8,6 +8,7 @@ Essentially pascal's triangle is an infinite, equilateral triangle composed of n
 ![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/pascals.png?raw=true)
 
 ### Implementation 
+Almost all solutions for deriving the pascal's triangle algorithm will involve the use of an array. Typically a user will signify the number of rows for which they would like to build out pascal's triangle and that value is then passed along to the function as a parameter. An example of this concept can be seen below: 
 
 ```javascript 
 function createPascalTriangle (numRows) {
