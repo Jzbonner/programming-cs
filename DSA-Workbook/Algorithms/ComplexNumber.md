@@ -4,3 +4,15 @@ Complex Numbers have a wide variety of applications, like calculation of AC volt
 ![Diagram1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/complex-number.png?raw=true)
 
 ### Mathematical Operations 
+When working with complex numbers the main focus is to simplify and combine like terms and then apply the standard method of operation. For example:
+
+```
+Addition ~ (2+3i) + (1-6i) ==> (2+1) + (3i-6i) = *-3i
+
+Subtraction ~ 
+
+Multiplication ~ 
+
+Conjugation ~ 
+```
+
