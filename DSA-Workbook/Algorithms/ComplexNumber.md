@@ -11,8 +11,8 @@ Addition ~ (2 + 3i) + (1 - 6i) ==> (2+1) + (3i - 6i) = 3 - 3i
 
 Subtraction ~ (16i - 5i) ==> (16 - 5)i = 11i 
 
-Multiplication ~ 
+Multiplication ~ (3 + 2i)(1 + 7i) ==> = -11 + 23i where { i^2 = -1 } 
 
-Conjugation ~ 
+Conjugation ~ (2 + 3i) / (4 - 5i) ==> -7/41 + (22/41)i 
 ```
 
