@@ -7,9 +7,9 @@ Complex Numbers have a wide variety of applications, like calculation of AC volt
 When working with complex numbers the main focus is to simplify and combine like terms and then apply the standard method of operation. For example:
 
 ```
-Addition ~ (2+3i) + (1-6i) ==> (2+1) + (3i-6i) = *-3i
+Addition ~ (2 + 3i) + (1 - 6i) ==> (2+1) + (3i - 6i) = 3 - 3i
 
-Subtraction ~ 
+Subtraction ~ (16i - 5i) ==> (16 - 5)i = 11i 
 
 Multiplication ~ 
 
