@@ -18,5 +18,5 @@ Math.radians = function(degrees) {
 Math.degrees = function(radians) {
   return radians * 180 / Math.PI;
 };
-The name 
+ 
 ```
