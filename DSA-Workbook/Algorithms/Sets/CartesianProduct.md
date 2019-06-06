@@ -11,7 +11,7 @@ When utilizing Cartesian Products in javascript typically developers will work v
 3. Then loop over the elements in the current array, concating those values onto the results array 
 4. Set the results to the temp array 
 5. Repeat until iteration set in `FOR` loop is justified 
-6. Return results array
+6. And finally return results array 
 
 ```javascript 
 /* printCombos([‘cat’, ‘dog’], [‘foo’, ‘bar’, ‘baz’], [‘hello’, ‘world’])*/
