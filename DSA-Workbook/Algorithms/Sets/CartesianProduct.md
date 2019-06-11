@@ -4,7 +4,7 @@ The Cartesian Product of sets means the product of non-empty sets in an ordered 
 ![Diagram 1](https://github.com/Jzbonner/ProgrammingConcepts/blob/master/img-media/cartesian.jpg?raw=true)
 
 ### Implementation 
-When utilizing Cartesian Products in javascript typically developers will work vector arrays. Array manipulation invovling cartesian products typically invovles nested for loops and the array sub methods `.push()` and `.concat()`. An exmaple of applying the cartesian product to two separate vector arrays without using recursion could go as follows. Essentially you want to: 
+When utilizing Cartesian Products in JavaScript typically developers will work vector arrays. Array manipulation involving Cartesian products typically involves nested for loops and the array sub methods `.push()` and `.concat()`. An example of applying the Cartesian product to two separate vector arrays without using recursion could go as follows. Essentially you want to: 
 
 1. Loop over the entire array 
 2. Then loop over the results array 
