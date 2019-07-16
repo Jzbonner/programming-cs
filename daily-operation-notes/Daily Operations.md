@@ -66,7 +66,7 @@ I have to prioritize the following:
 Driven by a passion for the field, I have converted my academic background into a multidisciplinary skill set. Through course work at UNC and experience working in industry I've found myself taking an interest in kaggle competitions, freelance web and mobile development, Spanish as a second language, and financial engineering research
 * REVISE: (✔)
 Through educational coursework at UNC-CH and employment experience in the industry, I have expanded my skill-set and interest to include Data Science competitions, Freelance Web Development, Foreign Language (Spanish),  Quantitative Analysis and Research
-* Cancelling Orders
+* Canceling Orders
 	* List: 
 24617(✔) | 24835(✔) 
 24618(✔) | 24840(✔)
@@ -75,7 +75,40 @@ Through educational coursework at UNC-CH and employment experience in the indust
 24829(✔) | 24856(✔)
 24831(✔) | 24857(✔)
 	* Zendesk ticket resolved and closed
-* Excel Spreadsheet for Budget ()
-* Update JIRA tickets ()
+* Excel Spreadsheet for Budget (pushed)
+* Update JIRA tickets (✔)
 * Update Portfolio Site (✔)
 Credit Reports (✔)
+
+
+```July16th2019 - Tuesday 
+```
+### Always a way
+* Excel Spreadsheet and Planned Withdrawals ()
+* Update JIRA tickets ()
+* Send emails ()
+* Call Humana ()
+
+* EDIT: 
+Internships provide opportunities to learn and grown from within the
+industry. Understanding the inner workings of a business gives you the
+opportunity to see the micro processes that culminate into a fully
+functioning corporation. My internship experience not only allowed me to develop my technical skill set, but to also develop keen problem solving strategies to further my value as an asset in the workforce.
+
+
+Having the opportunity to develop one's self under the leadership of
+an industry professional provided me with direction in my career
+trajectory. The challenging experience of working in settings that
+contrast greatly from academic environments, really sparked my
+interest in understanding the ways in which we interact with and
+develop everyday technologies. Understanding the daily intricacies of
+business operations, added a unique perspective as to how I went about
+completing job responsibilities as well as developing my own
+independent projects.
+
+* REVISE: 
+My internship and employment experiences have allowed me the opportunity to develop a skill-set rooted in the technical space  
+
+
+* Think about backup plans for the birthday trip [prioritize this tonight]()
+* Coordinate schedule with Olamide for Birthday trip ()
