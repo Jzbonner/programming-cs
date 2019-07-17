@@ -3,16 +3,15 @@
 ```July5th2019 - Friday
 ```
 ### Meditate, Release 
-I have to prioritize the following: 
-* Financial Planning and Budgeting - Parents, Expenses (Bills/Utilities), Leisure, Relationships
-	* Parents: CellPhone Bills, Gym Bills, Zumba Membership, Phone Upgrades, Trip Budget, Birthday Planning, Event Expense  
-	* Expenses (Recurring): Netflix Membership, Apple Music Membership, Udemy Bill, Bank Transfer (WF to PNC, WF to CashApp, PNC to Reserve, Credit Union Account, WF to PayPal, WF to Venmo), Haircut Money
-	* Leisure: Tailor and Alterations, Eating Out, Amazon Selections 
-	* Relationships: July Budget for Brittany, July Budget for Parents Bank Transfers, July Budget for Friends 
-* Create Spreadsheet with Information for Financial Planning 
-* Look at Health Insurance Options 
-* Look at Doctors in the area for Specific Procedures -  (H and AE)
-* Look at Car Options and Articles 
+* Financial Planning and Budgeting - Parents, Expenses (Bills/Utilities), Leisure, Relationships (✔)
+* Parents: CellPhone Bills, Gym Bills, Zumba Membership, Phone Upgrades, Trip Budget, Birthday Planning, Event Expense  (✔)
+* Expenses (Recurring): Netflix Membership, Apple Music Membership, Udemy Bill, Bank Transfer (WF to PNC, WF to CashApp, PNC to Reserve, Credit Union Account, WF to PayPal, WF to Venmo), Haircut Money (✔)
+* Leisure: Tailor and Alterations, Eating Out, Amazon Selections (✔)
+* Relationships: July Budget for Brittany, July Budget for Parents Bank Transfers, July Budget for Friends (✔)
+* Create Spreadsheet with Information for Financial Planning (pushed)
+* Look at Health Insurance Options (✔)
+* Look at Doctors in the area for Specific Procedures -  (H and AE) (pushed-delayed)
+* Look at Car Options and Articles (pushed)
 	** Money Down Options 
 	** Associated Cost and Insurance 
 * Look at Student Loan Restructuring Options and getting those collection options adjusted with a payment plan 
@@ -21,25 +20,25 @@ I have to prioritize the following:
 ```July8th2019 - Monday
 ```
 ### Focus on yourself
-* Look at Credit Unions Membership requirements, and decide on the one to join 
-* Get Credit Reports for Mom and Dad 
-* Setup a Google Doc for business plans and ventures 
-* Update Trello Board with due dates for projects and portfolio building 
+* Look at Credit Unions Membership requirements, and decide on the one to join (✔)
+* Get Credit Reports for Mom and Dad (pushed)
+* Setup a Google Doc for business plans and ventures (pushed)
+* Update Trello Board with due dates for projects and portfolio building (pushed)
 
 
 ```July9th2019 - Tuesday 
 ```
 ### Productivity 
-* Download Credit Report information for Mom and Dad, and print them 
-* Compile Email Correspondence between third parties and universities 
+* Download Credit Report information for Mom and Dad, and print them (pushed)
+* Compile Email Correspondence between third parties and universities (pushed)
 
 
 ```July10th2019 - Wednesday
 ```
 ### Focus on the Wealth 
 * Sent first surprise to Brittany (✔)
-* Download Credit Report information for Mom and Dad, and print them 
-* Compile Email Correspondence between third parties and universities 
+* Download Credit Report information for Mom and Dad, and print them (pushed)
+* Compile Email Correspondence between third parties and universities (✔)
 * T-mobile Payment Arrangement 1 (✔)
 * Gym Membership set for tomorrow July 11th (✔)
 
@@ -47,23 +46,22 @@ I have to prioritize the following:
 ```July11th2019 - Thursday 
 ```
 ### Vice-less 
-* Compile information on Web Scrapers, MonogoDB Atlas, and Alpaca API for Paper Trading 
-* Send book on Web Scraping with Python along with videos
+* Compile information on Web Scrapers, MonogoDB Atlas, and Alpaca API for Paper Trading (pushed)
+* Send book on Web Scraping with Python along with videos  (pushed)
 
 
 ```July12th2019 - Friday 
 ```
 ### Proprietary 
 * Excel Spreadsheet for Budget (Started ✔)
-* Email Correspondence from Law Office (Tonight) 
-* Compile information on Web Scrapers, MonogoDB Atlas, and Alpaca API for Paper Trading (Tonight)
+* Email Correspondence from Law Office (pushed) 
+* Compile information on Web Scrapers, MonogoDB Atlas, and Alpaca API for Paper Trading (pushed)
 
 
 ```July15th2019 - Monday 
 ```
 ### Additional Sources of Revenue 
 * EDIT: (✔)
-Driven by a passion for the field, I have converted my academic background into a multidisciplinary skill set. Through course work at UNC and experience working in industry I've found myself taking an interest in kaggle competitions, freelance web and mobile development, Spanish as a second language, and financial engineering research
 * REVISE: (✔)
 Through educational coursework at UNC-CH and employment experience in the industry, I have expanded my skill-set and interest to include Data Science competitions, Freelance Web Development, Foreign Language (Spanish),  Quantitative Analysis and Research
 * Canceling Orders
@@ -78,37 +76,28 @@ Through educational coursework at UNC-CH and employment experience in the indust
 * Excel Spreadsheet for Budget (pushed)
 * Update JIRA tickets (✔)
 * Update Portfolio Site (✔)
-Credit Reports (✔)
+* Credit Reports (✔)
 
 
 ```July16th2019 - Tuesday 
 ```
 ### Always a way
-* Excel Spreadsheet and Planned Withdrawals ()
-* Update JIRA tickets ()
-* Send emails ()
-* Call Humana ()
-
-* EDIT: 
-Internships provide opportunities to learn and grown from within the
-industry. Understanding the inner workings of a business gives you the
-opportunity to see the micro processes that culminate into a fully
-functioning corporation. My internship experience not only allowed me to develop my technical skill set, but to also develop keen problem solving strategies to further my value as an asset in the workforce.
-
-
-Having the opportunity to develop one's self under the leadership of
-an industry professional provided me with direction in my career
-trajectory. The challenging experience of working in settings that
-contrast greatly from academic environments, really sparked my
-interest in understanding the ways in which we interact with and
-develop everyday technologies. Understanding the daily intricacies of
-business operations, added a unique perspective as to how I went about
-completing job responsibilities as well as developing my own
-independent projects.
-
-* REVISE: 
-My internship and employment experiences have allowed me the opportunity to develop a skill-set rooted in the technical space  
+* Excel Spreadsheet and Planned Withdrawals (pushed)
+* Update JIRA tickets (✔)
+* Send emails (✔)
+* Call Humana (pushed)
+* EDIT: (✔)
+* REVISE: (✔)
+My internship and employment experiences have allowed me the opportunity to develop a skill-set geared towards the tech industry. Having worked with a plethora of technologies and operational systems, I have become well equipped with handling a multitude of task from networking architecture and web development to helpdesk operations and account management. 
+* Think about backup plans for the birthday trip (pushed)
+* Coordinate schedule with Olamide for Birthday trip (pushed)
 
 
-* Think about backup plans for the birthday trip [prioritize this tonight]()
-* Coordinate schedule with Olamide for Birthday trip ()
+```July17th2019 - Wednesday 
+```
+### Forward Momentum 
+* Birthday Planning for Mom ()
+* Birthday Planning for Olamide ()
+* Call Humana or Look at Online Account Options ()
+* Send Emails ()
+* Finish Portfolio Site ()
