@@ -88,7 +88,7 @@ Through educational coursework at UNC-CH and employment experience in the indust
 * Call Humana (pushed)
 * EDIT: (✔)
 * REVISE: (✔)
-My internship and employment experiences have allowed me the opportunity to develop a skill-set geared towards the tech industry. Having worked with a plethora of technologies and operational systems, I have become well equipped with handling a multitude of task from networking architecture and web development to helpdesk operations and account management. 
+My internship and employment experiences have allowed me the opportunity to develop a skill-set geared towards the tech industry. Having worked with a plethora of technologies and operational systems, I have become well equipped with handling a multitude of task from networking architecture and web development to help-desk operations and account management. 
 * Think about backup plans for the birthday trip (pushed)
 * Coordinate schedule with Olamide for Birthday trip (pushed)
 
@@ -96,8 +96,15 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```July17th2019 - Wednesday 
 ```
 ### Forward Momentum 
-* Birthday Planning for Mom ()
-* Birthday Planning for Olamide ()
-* Call Humana or Look at Online Account Options ()
+* Birthday Planning for Mom (pushed - evening)
+* Birthday Planning for Olamide (pushed - evening)
+* Call Humana or Look at Online Account Options (pushed - evening)
 * Send Emails ()
-* Finish Portfolio Site ()
+* Finish Portfolio Site (implement - portfolio component, resume component, footer left todo)
+* Update Trello Board (pushed - evening)
+
+```July18th2019 - Thursday
+```
+### Weighted Shoulders
+* Update JIRA tickets ()
+* Update Trello Board ()
