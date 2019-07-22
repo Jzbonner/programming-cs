@@ -5,7 +5,7 @@
 ### Meditate, Release 
 * Financial Planning and Budgeting - Parents, Expenses (Bills/Utilities), Leisure, Relationships (✔)
 * Parents: CellPhone Bills, Gym Bills, Zumba Membership, Phone Upgrades, Trip Budget, Birthday Planning, Event Expense  (✔)
-* Expenses (Recurring): Netflix Membership, Apple Music Membership, Udemy Bill, Bank Transfer (WF to PNC, WF to CashApp, PNC to Reserve, Credit Union Account, WF to PayPal, WF to Venmo), Haircut Money (✔)
+* Expenses (Recurring): NetFlix Membership, Apple Music Membership, Udemy Bill, Bank Transfer (WF to PNC, WF to CashApp, PNC to Reserve, Credit Union Account, WF to PayPal, WF to Venmo), Haircut Money (✔)
 * Leisure: Tailor and Alterations, Eating Out, Amazon Selections (✔)
 * Relationships: July Budget for Brittany, July Budget for Parents Bank Transfers, July Budget for Friends (✔)
 * Create Spreadsheet with Information for Financial Planning (pushed)
@@ -127,7 +127,10 @@ My internship and employment experiences have allowed me the opportunity to deve
 ``` 
 ### Invigorate 
 * Update Trello Boards ()
-* Work on emails ()
+* Work on Emails ()
 * Work on Google Docs ()
 * Work on Budgets () 
-
+* Update JIRA board (✔)
+* Confirm Schedule with Olamide for Thursday ()
+* IP Changes from Previous Call (66.96.163.137)
+* Work on plan for this weekend (✔)
