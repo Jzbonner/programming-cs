@@ -99,12 +99,35 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Birthday Planning for Mom (pushed - evening)
 * Birthday Planning for Olamide (pushed - evening)
 * Call Humana or Look at Online Account Options (pushed - evening)
-* Send Emails ()
+* Send Emails (pushed - next week)
 * Finish Portfolio Site (implement - portfolio component, resume component, footer left todo)
 * Update Trello Board (pushed - evening)
+
 
 ```July18th2019 - Thursday
 ```
 ### Weighted Shoulders
-* Update JIRA tickets ()
-* Update Trello Board ()
+* Update JIRA tickets (✔)
+* Update Trello Board (✔)
+
+
+```July19th2-19 - Friday
+```
+### {Deprecated}
+
+
+```July20th2019 - Saturday 
+```
+### Re-imagine 
+* Configure home environment Windows-SSD (✔)
+* Update Trello Boards (pushed - tomorrow)
+
+
+```July22nd2019 - Monday 
+``` 
+### Invigorate 
+* Update Trello Boards ()
+* Work on emails ()
+* Work on Google Docs ()
+* Work on Budgets () 
+
