@@ -126,11 +126,19 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```July22nd2019 - Monday 
 ``` 
 ### Invigorate 
-* Update Trello Boards ()
-* Work on Emails ()
-* Work on Google Docs ()
-* Work on Budgets () 
+* Update Trello Boards (pushed)
+* Work on Emails (pushed)
+* Work on Google Docs (pushed)
+* Work on Budgets (pushed) 
 * Update JIRA board (✔)
-* Confirm Schedule with Olamide for Thursday ()
+* Confirm Schedule with Olamide for Friday (✔)
 * IP Changes from Previous Call (66.96.163.137)
 * Work on plan for this weekend (✔)
+
+```July23rd2019 - Tuesday
+```
+### Re-inspired 
+* Update Trello Boards ()
+* Work on Emails (pushed - tonight)
+* Work on Google Docs ()
+* Work on Budgets () 
