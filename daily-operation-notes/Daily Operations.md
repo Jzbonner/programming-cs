@@ -138,7 +138,17 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```July23rd2019 - Tuesday
 ```
 ### Re-inspired 
-* Update Trello Boards ()
+* Update Trello Boards (pushed - tomorrow)
 * Work on Emails (pushed - tonight)
-* Work on Google Docs ()
-* Work on Budgets () 
+* Work on Google Docs (pushed - tomorrow)
+* Work on Budgets (pushed - tomorrow) 
+* Take Care of Phone Bill (✔)
+
+
+```July24th2019 - Wednesday 
+```
+### Appreciate/Congratulate 
+* Update Trello Boards (pushed - tomorrow)
+* Work on Emails (pushed - tonight)
+* Work on Google Docs (pushed - tomorrow)
+* Work on Budgets (pushed - tomorrow) 
