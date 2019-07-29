@@ -152,3 +152,34 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Emails (pushed - tonight)
 * Work on Google Docs (pushed - tomorrow)
 * Work on Budgets (pushed - tomorrow) 
+
+
+```July25th2019 - Thursday
+```
+### Growth and Re-scheduling
+* Cancel plans for birthday weekend (✔)
+* Coordinate plan for rescheduled visits (pushed - weekend)
+
+
+```July26th2019 - Friday
+```
+### Re-alignment 
+* Update Trello Boards (pushed)
+* Work on Emails (pushed)
+* Work on Budgets (pushed)
+* Update JIRA Tickets (pushed)
+
+
+```July26th-28th2019 - Weekend 
+```
+### {Deprecated}
+
+
+```July29th2019 - Monday 
+```
+### No Days Off. 
+* Update Trello Boards ()
+* Work on Emails ()
+* Work on Budgets ()
+* Update JIRA Tickets ()
+* Revise Github Repos (pushed - tonight)
