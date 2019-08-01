@@ -204,6 +204,7 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Organize Budget (*the most important thing - pushed tonight*)
 * Compile resources for Repo projects (pushed - tonight)
 * Contact Humana for Health Insurance ()
+* Apply for Credit Card (✔ approved by Capital One Secured)
 
 
 ```August2nd2019 - Tuesday 
