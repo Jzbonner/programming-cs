@@ -178,8 +178,35 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```July29th2019 - Monday 
 ```
 ### No Days Off. 
-* Update Trello Boards ()
-* Work on Emails ()
-* Work on Budgets ()
-* Update JIRA Tickets ()
+* Update Trello Boards (pushed - tonight)
+* Work on Emails (pushed - tonight)
+* Work on Budgets (pushed - tonight)
+* Update JIRA Tickets (pushed - tonight)
 * Revise Github Repos (pushed - tonight)
+
+
+```July30th2019 - Tuesday
+```
+### {Deprecated}
+
+
+```July31st2019 - Wednesday
+```
+### The Breakdown 
+* Organize Budget (*the most important thing - pushed tonight*)
+* Compile resources for Repo projects (pushed - tonight)
+* Update JIRA tickets (✔)
+
+
+```August1st2019 - Monday 
+```
+### Progression = Tough 
+* Organize Budget (*the most important thing - pushed tonight*)
+* Compile resources for Repo projects (pushed - tonight)
+* Contact Humana for Health Insurance ()
+
+
+```August2nd2019 - Tuesday 
+```
+### New Day. New Mood. 
+
