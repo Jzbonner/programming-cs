@@ -203,11 +203,33 @@ My internship and employment experiences have allowed me the opportunity to deve
 ### Progression = Tough 
 * Organize Budget (*the most important thing - pushed tonight*)
 * Compile resources for Repo projects (pushed - tonight)
-* Contact Humana for Health Insurance ()
+* Contact Humana for Health Insurance (pushed - today)
 * Apply for Credit Card (✔ approved by Capital One Secured)
 
 
 ```August2nd2019 - Tuesday 
 ```
 ### New Day. New Mood. 
+* Work on Emails (pushed - tonight)
+* Work on Budget (pushed - tonight)
+* Called Humana (✔)
+* Contacted Mietek about Insurance (✔)
+* Find some time to calm down (failed at this immensely)
+* Look for an affordable shaver preferably wet and dry (pushed - tonight)
+* Work on Credit Management (Credit Report Analysis, Budget and Schedule for Secured Credit Card)
 
+
+```August5th2019 - Monday
+```
+### {Deprecated}
+
+
+```August6th2019 - Tuesday 
+```
+### Overcome and Triumph 
+* Print off bank statements (✔)
+* Work on Budget ()
+* Work on portfolio site ()
+* Work on Data Engineering Repo ()
+* Reorganize Github Repos ()
+* Discuss financial plan with parents ()
