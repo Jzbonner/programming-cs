@@ -228,8 +228,28 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```
 ### Overcome and Triumph 
 * Print off bank statements (✔)
-* Work on Budget ()
-* Work on portfolio site ()
-* Work on Data Engineering Repo ()
-* Reorganize Github Repos ()
-* Discuss financial plan with parents ()
+* Work on Budget (✔)
+* Work on portfolio site (pushed - tomorrow)
+* Work on Data Engineering Repo (pushed - tomorrow)
+* Reorganize Github Repos (pushed - tomorrow)
+* Discuss financial plan with parents (pushed - tomorrow)
+
+```August7th2019 - Wednesday 
+```
+### New Deal. New Day. 
+* Work on portfolio site (pushed - tomorrow)
+* Work on Data Engineering Repo (pushed - tomorrow)
+* Reorganize Github Repos (pushed - tomorrow)
+* Discuss financial plan with parents (pushed - tomorrow)
+
+
+```August8th2019 - Thursday 
+```
+### Leverage 
+* Work on portfolio site (pushed - tomorrow)
+* Work on Data Engineering Repo (pushed - tomorrow)
+* Reorganize Github Repos (pushed - tomorrow)
+* Discuss financial plan with parents (pushed - tomorrow)
+* Apply for Remote Internship position with ConsenSys ()
+* Update Resume to include current position ()
+
