@@ -252,4 +252,10 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Discuss financial plan with parents (pushed - tomorrow)
 * Apply for Remote Internship position with ConsenSys ()
 * Update Resume to include current position ()
+* Update tickets on DecoNetwork ()
+
+
+```August9th2019 - Friday 
+```
+### Skillset. Skillset. Skillset. 
 
