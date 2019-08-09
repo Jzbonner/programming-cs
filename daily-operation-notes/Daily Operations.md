@@ -250,9 +250,9 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Data Engineering Repo (pushed - tomorrow)
 * Reorganize Github Repos (pushed - tomorrow)
 * Discuss financial plan with parents (pushed - tomorrow)
-* Apply for Remote Internship position with ConsenSys ()
-* Update Resume to include current position ()
-* Update tickets on DecoNetwork ()
+* Apply for Remote Internship position with ConsenSys (pushed - tomorrow)
+* Update Resume to include current position (pushed - tomorrow)
+* Update tickets on DecoNetwork (pushed - tomorrow)
 
 
 ```August9th2019 - Friday 
