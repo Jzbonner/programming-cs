@@ -257,5 +257,33 @@ My internship and employment experiences have allowed me the opportunity to deve
 
 ```August9th2019 - Friday 
 ```
-### Skillset. Skillset. Skillset. 
+### {{Deprecated}}
 
+
+```August24th2019 - Saturday 
+```
+### Celebrate Life 
+* Work on portfolio site (✔)
+* Work on Emails (pushed - tomorrow)
+* Work on Music Library (✔)
+* Work on Budget (pushed - tomorrow)
+* Work on Grocery List (✔)
+* Work on Additional Income (pushed - tomorrow)
+* Work on Blog Post (pushed - tomorrow)
+* Work on Notes (✔)
+* Update Trello Board (pushed - tomorrow)
+* Cleanup Jira and Zendesk (pushed - tomorrow)
+
+
+```August25th2019 - Sunday
+```
+### Leverage the Loss 
+* Work on portfolio site ()
+* Work on Emails ()
+* Work on Music Library ()
+* Work on Budget ()
+* Work on Additional Income ()
+* Work on Notes ()
+* Work on Blog Post ()
+* Update Trello Board ()
+* Cleanup JIRA and Zendesk ()
