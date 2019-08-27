@@ -278,7 +278,7 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```August25th2019 - Sunday
 ```
 ### Leverage the Loss 
-* Work on portfolio site ()
+* Work on portfolio site (🌊 - current)
 * Work on Emails ()
 * Work on Music Library ()
 * Work on Budget ()
