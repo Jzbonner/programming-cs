@@ -287,3 +287,8 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Blog Post ()
 * Update Trello Board ()
 * Cleanup JIRA and Zendesk ()
+
+
+```August26th2019 - Monday 
+```
+### New Grind 
