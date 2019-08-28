@@ -279,16 +279,36 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```
 ### Leverage the Loss 
 * Work on portfolio site (🌊 - current)
-* Work on Emails ()
-* Work on Music Library ()
-* Work on Budget ()
-* Work on Additional Income ()
-* Work on Notes ()
-* Work on Blog Post ()
-* Update Trello Board ()
-* Cleanup JIRA and Zendesk ()
+* Work on Emails (pushed - tomorrow)
+* Work on Music Library (pushed - tomorrow)
+* Work on Budget (pushed - tomorrow)
+* Work on Additional Income (pushed - tomorrow)
+* Work on Notes (pushed - tomorrow)
+* Work on Blog Post (pushed - tomorrow)
+* Update Trello Board (🌊 - current)
+* Cleanup JIRA and Zendesk (✔)
 
 
 ```August26th2019 - Monday 
 ```
-### New Grind 
+### {{Deprecated}}
+
+
+```August28th2019 - Wednesday 
+```
+### New Grind. New Focus
+* Work on portfolio site (🌊 - current)
+* Work on Emails (pushed - tomorrow)
+* Work on Music Library (pushed - tomorrow)
+* Work on Budget (pushed - tomorrow)
+* Work on Additional Income (pushed - tomorrow)
+* Work on Notes (pushed - tomorrow)
+* Work on Blog Post (pushed - tomorrow)
+* Update Trello Board (🌊 - current)
+* Cleanup JIRA and Zendesk (✔)
+
+
+```August29th2019 - Thursday 
+```
+### New Dawn. New Day. 
+* Organize Mint App with Budget ()
