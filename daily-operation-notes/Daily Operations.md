@@ -311,4 +311,19 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```August29th2019 - Thursday 
 ```
 ### New Dawn. New Day. 
-* Organize Mint App with Budget ()
+* Organize Mint App with Budget (✔)
+* Work on Emails (pushed - tomorrow) 
+* Work on portfolio site (pushed - tomorrow)
+* Clean up JIRA tickets (pushed - tomorrow)
+
+
+```August30th2019 - Friday 
+```
+### Let the money come quicker 
+* Work on Emails ()
+* work on portfolio site ()
+* Work on Notes ()
+* Work on Trello Board ()
+* Work on Resume and Job Apps ()
+* Work on Blog Posts ()
+* Work on Zendesk tickets (🌊 - current)
