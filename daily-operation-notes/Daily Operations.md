@@ -327,3 +327,13 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Resume and Job Apps ()
 * Work on Blog Posts ()
 * Work on Zendesk tickets (🌊 - current)
+
+
+```September4th2019 - Wednesday 
+```
+### New Month. New Money 
+* Work on Emails ()
+* Work on Updates () 
+* Work on Notes ()
+* Work on Portfolio Site ()
+* Register Online Account with Humana ()
