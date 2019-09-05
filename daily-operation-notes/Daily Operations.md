@@ -320,20 +320,35 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```August30th2019 - Friday 
 ```
 ### Let the money come quicker 
-* Work on Emails ()
-* work on portfolio site ()
-* Work on Notes ()
-* Work on Trello Board ()
-* Work on Resume and Job Apps ()
-* Work on Blog Posts ()
+* Work on Emails (pushed - tomorrow)
+* work on portfolio site (pushed - tomorrow)
+* Work on Notes (pushed - tomorrow)
+* Work on Trello Board (pushed - tomorrow)
+* Work on Resume and Job Apps (pushed - tomorrow)
+* Work on Blog Posts (pushed - tomorrow)
 * Work on Zendesk tickets (🌊 - current)
 
 
 ```September4th2019 - Wednesday 
 ```
 ### New Month. New Money 
+* Work on Emails (pushed - tomorrow)
+* Work on JIRA Updates (pushed - tomorrow) 
+* Work on Notes (pushed - tomorrow)
+* Work on Portfolio Site (pushed - tomorrow)
+* Register Online Account with Humana (pushed - tomorrow)
+
+
+```September5th2019 - Thursday 
+```
+### Different Day. Different Hustle. 
 * Work on Emails ()
-* Work on Updates () 
 * Work on Notes ()
 * Work on Portfolio Site ()
-* Register Online Account with Humana ()
+* Register Account with Humana ()
+* Work on JIRA Updates (🌊 - current)
+
+
+```Sepetember6th2019 - Friday 
+```
+### End of a Good Thing. 
