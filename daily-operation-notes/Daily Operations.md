@@ -342,13 +342,18 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```September5th2019 - Thursday 
 ```
 ### Different Day. Different Hustle. 
-* Work on Emails ()
-* Work on Notes ()
-* Work on Portfolio Site ()
-* Register Account with Humana ()
+* Work on Emails (pushed - tomorrow)
+* Work on Notes (pushed - tomorrow)
+* Work on Portfolio Site (pushed - tomorrow)
+* Register Account with Humana (pushed - tomorrow)
 * Work on JIRA Updates (🌊 - current)
 
 
 ```Sepetember6th2019 - Friday 
 ```
 ### End of a Good Thing. 
+* Work on Emails ()
+* Work on Notes ()
+* Work on Portfolio Site ()
+* Register Account with Humana ()
+* Work on JIRA Updates (🌊 - current)
