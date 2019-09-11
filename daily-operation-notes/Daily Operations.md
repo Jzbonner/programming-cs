@@ -357,3 +357,44 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Portfolio Site ()
 * Register Account with Humana ()
 * Work on JIRA Updates (🌊 - current)
+
+
+```September11th2019 - Wednesday 
+```
+### Job Year. New Money. 
+* Work on job postings ()
+* Find remote job opportunities ()
+* Opportunity: ARRIS ()
+* Find new budget phone options ()
+*  
+
+Transfer this to notes: 
+Hello Greg,
+
+
+
+Just wanted to reach out to you and provide you with an update on some of the issues you raised in your previous voicemail. I will also address some of the other issues that you raised in your prior tickets. 
+
+
+
+1. Design Position and Size in the Decoration Editor
+
+At this time there isn't a way to fully disable the "Position and Size" feature in the decoration editor. If you look at your Decoration Process Configuration and your Designer Settings for your individual affiliate stores you have the option of disabling Image Resizing Options, Image Effects, Image Borders, and Advanced Image Options. At present, there is no way to lock the position of designs and this includes rotating designs. 
+
+
+I am available anytime between 9:30 AM and 5:00 PM Monday through Friday, if you would like to schedule a call on go over some of your issues over the phone. Just let me know the date and time and I will do my best to accommodate your schedule. 
+
+
+
+Please feel free to reach out if you have any additional questions or concerns. We are here to help! 
+
+
+
+Get answers even quicker:
+
+​
+
+Universal Search provides help articles for over 400 topics as well as access to all your customer, quote, and order information. Simply type the phrase, name, or/and order number you are looking for and we'll take you there instantly!
+
+
+
