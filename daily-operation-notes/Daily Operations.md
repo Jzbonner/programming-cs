@@ -353,7 +353,17 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```
 ### End of a Good Thing. 
 * Work on Emails (🌊 - current)
-* Work on Notes ()
-* Work on Portfolio Site ()
-* Register Account with Humana ()
+* Work on Notes (pushed - tomorrow)
+* Work on Portfolio Site (pushed - tomorrow)
+* Register Account with Humana (pushed - tomorrow)
+* Work on JIRA Updates (pushed - next week)
+
+
+```Sepetember7th2019 - Saturday 
+```
+### End of a Good Thing. 
+* Work on Emails (🌊 - current)
+* Work on Notes (pushed - tomorrow)
+* Work on Portfolio Site (pushed - tomorrow)
+* Register Account with Humana (pushed - tomorrow)
 * Work on JIRA Updates (pushed - next week)
