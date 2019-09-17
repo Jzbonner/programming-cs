@@ -353,10 +353,9 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```
 ### End of a Good Thing. 
 * Work on Emails (🌊 - current)
-* Work on Notes ()
-* Work on Portfolio Site ()
-* Register Account with Humana ()
-<<<<<<< HEAD
+* Work on Notes (✔)
+* Work on Portfolio Site (pushed - next week)
+* Register Account with Humana (✔)
 * Work on JIRA Updates (🌊 - current)
 
 
@@ -367,38 +366,20 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Find remote job opportunities ()
 * Opportunity: ARRIS ()
 * Find new budget phone options ()
-*  
-
-Transfer this to notes: 
-Hello Greg,
 
 
-
-Just wanted to reach out to you and provide you with an update on some of the issues you raised in your previous voicemail. I will also address some of the other issues that you raised in your prior tickets. 
-
-
-
-1. Design Position and Size in the Decoration Editor
-
-At this time there isn't a way to fully disable the "Position and Size" feature in the decoration editor. If you look at your Decoration Process Configuration and your Designer Settings for your individual affiliate stores you have the option of disabling Image Resizing Options, Image Effects, Image Borders, and Advanced Image Options. At present, there is no way to lock the position of designs and this includes rotating designs. 
+```September16th2019 - Monday 
+```
+### {{Deprecated}}
 
 
-I am available anytime between 9:30 AM and 5:00 PM Monday through Friday, if you would like to schedule a call on go over some of your issues over the phone. Just let me know the date and time and I will do my best to accommodate your schedule. 
-
-
-
-Please feel free to reach out if you have any additional questions or concerns. We are here to help! 
-
-
-
-Get answers even quicker:
-
-​
-
-Universal Search provides help articles for over 400 topics as well as access to all your customer, quote, and order information. Simply type the phrase, name, or/and order number you are looking for and we'll take you there instantly!
-
-
-
-=======
-* Work on JIRA Updates (pushed - next week)
->>>>>>> a3b84b83ad4c06ba94cf77ba6e34a497c0f155f2
+```September17th2019 - Tuesday 
+```
+### Money Moves 
+* Locations for Job and Housing: Peachtree Corners (✔)
+* Locations for Housing: (Rosemont Berkeley Lake, The Atlantic Medlock Bridge, Estates at Crossroads, Park at Peachtree Corners Apartments) 
+* Work on Emails ()
+* Work on JIRA updates () 
+* Work on Notes (Blog(), Literature())
+* Work on Portfolio Site ()
+* Work on Money Making Ventures ()
