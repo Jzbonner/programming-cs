@@ -352,10 +352,11 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```Sepetember6th2019 - Friday 
 ```
 ### End of a Good Thing. 
-* Work on Emails ()
+* Work on Emails (🌊 - current)
 * Work on Notes ()
 * Work on Portfolio Site ()
 * Register Account with Humana ()
+<<<<<<< HEAD
 * Work on JIRA Updates (🌊 - current)
 
 
@@ -398,3 +399,6 @@ Universal Search provides help articles for over 400 topics as well as access to
 
 
 
+=======
+* Work on JIRA Updates (pushed - next week)
+>>>>>>> a3b84b83ad4c06ba94cf77ba6e34a497c0f155f2
