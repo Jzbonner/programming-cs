@@ -378,8 +378,8 @@ My internship and employment experiences have allowed me the opportunity to deve
 ### Money Moves 
 * Locations for Job and Housing: Peachtree Corners (✔)
 * Locations for Housing: (Rosemont Berkeley Lake, The Atlantic Medlock Bridge, Estates at Crossroads, Park at Peachtree Corners Apartments) 
-* Work on Emails ()
-* Work on JIRA updates () 
-* Work on Notes (Blog(), Literature())
-* Work on Portfolio Site ()
-* Work on Money Making Ventures ()
+* Work on Emails (🌊 - current)
+* Work on JIRA updates (🌊 - current) 
+* Work on Notes (Blog(), Literature(✔))
+* Work on Portfolio Site (🌊 - current)
+* Work on Money Making Ventures (pushed - tonight)
