@@ -362,10 +362,10 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```September11th2019 - Wednesday 
 ```
 ### Job Year. New Money. 
-* Work on job postings ()
-* Find remote job opportunities ()
-* Opportunity: ARRIS ()
-* Find new budget phone options ()
+* Work on job postings (pushed - tomorrow)
+* Find remote job opportunities (pushed - tomorrow)
+* Opportunity: ARRIS (pushed - tomorrow)
+* Find new budget phone options (pushed - tomorrow)
 
 
 ```September16th2019 - Monday 
@@ -383,3 +383,14 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Notes (Blog(), Literature(✔))
 * Work on Portfolio Site (🌊 - current)
 * Work on Money Making Ventures (pushed - tonight)
+
+
+```September20th2019 - Friday
+```
+### Don't get caught with that Blickie
+* Work on Emails ()
+* Work on Notes ()
+* Work on Portfolio Site ()
+* Work on Blog Site ()
+* Work on Money Ventures ()
+* Work on "On-Hold" Tickets ()
