@@ -394,3 +394,4 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on Blog Site ()
 * Work on Money Ventures ()
 * Work on "On-Hold" Tickets ()
+* Work on Business Model and Strategy - plan with scale in mind ()
