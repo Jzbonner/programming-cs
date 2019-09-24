@@ -406,5 +406,12 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```September24th2019 - Tuesday 
 ```
 ### There is light at the end of the tunnel 
-
-
+* Work on ticket updates (🌊 - current)
+* Work on JIRA updates ()
+* Work on Notes: 
+	* Blog ()
+	* Literature ()
+	* App Dev ()
+* Work on money making ventures ()
+* Work on Emails ()
+* Work on Portfolio Sites ()
