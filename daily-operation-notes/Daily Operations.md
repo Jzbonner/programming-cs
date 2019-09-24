@@ -402,3 +402,9 @@ My internship and employment experiences have allowed me the opportunity to deve
 	* App Dev ()
 * Work on money making ventures ()
 
+
+```September24th2019 - Tuesday 
+```
+### There is light at the end of the tunnel 
+
+
