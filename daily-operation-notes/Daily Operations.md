@@ -429,3 +429,29 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on money making ventures (pushed - tonight)
 * Work on Emails (✔)
 * Work on Portfolio Sites (pushed - tonight)
+
+
+
+```September26th2019 - Thursday 
+```
+### Rediscovery 
+* Resources and Financial Management (✔)
+* Work on ticket updates (🌊 - current)
+* Work on JIRA updates (✔)
+* Work on Notes: 
+	* Blog (pushed - tonight)
+	* Literature (🌊 - current)
+	* App Dev (🌊 - current)
+* Work on money making ventures (pushed - tonight)
+* Work on Emails (pushed-tonight)
+* Work on Portfolio Sites (pushed - tonight)
+* Brainstorm for Portfolio Site:
+/*
+ * Components to Edit: Home and Bio
+ *
+ * 1. Add Profile Pic and Quote to Bio Component
+ * 2. Add email newsletter link to Home Page
+ * 3. Rewrite Portfolio Content Sections
+ * 4. Price Domain Options
+ *
+*/
