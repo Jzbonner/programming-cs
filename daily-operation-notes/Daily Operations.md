@@ -455,3 +455,16 @@ My internship and employment experiences have allowed me the opportunity to deve
  * 4. Price Domain Options
  *
 */
+
+
+```September27th2019 - Friday 
+```
+### The Come Up 
+* Create Mailchimp Accout (✔)
+* Work on Notes: 
+	* Blog (pushed - tonight)
+	* Literature (🌊 - current)
+	* App Dev (🌊 - current)
+* Work on money making ventures (pushed - tonight)
+* Work on Emails (pushed-tonight)
+* Work on Portfolio Sites (pushed - tonight)
