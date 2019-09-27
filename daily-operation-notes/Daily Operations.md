@@ -460,7 +460,7 @@ My internship and employment experiences have allowed me the opportunity to deve
 ```September27th2019 - Friday 
 ```
 ### The Come Up 
-* Create Mailchimp Accout (✔)
+* Create Mailchimp Account (✔)
 * Work on Notes: 
 	* Blog (pushed - tonight)
 	* Literature (🌊 - current)
