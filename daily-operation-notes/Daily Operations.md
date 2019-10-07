@@ -468,3 +468,14 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Work on money making ventures (pushed - tonight)
 * Work on Emails (pushed-tonight)
 * Work on Portfolio Sites (pushed - tonight)
+
+
+```October7th2019 - Monday 
+```
+### New Birth 
+* New Job Secured (✔)
+* Business Plan sent to Mietek Regarding Schedule Change (🌊 - current)
+* Create Google Doc Resume for 2019 (🌊 - current)
+* Update tickets on Jira and Zendesk ()
+* Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
+* Update with a 
