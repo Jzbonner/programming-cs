@@ -478,4 +478,16 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Create Google Doc Resume for 2019 (🌊 - current)
 * Update tickets on Jira and Zendesk ()
 * Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
-* Update with a 
+
+
+```October9th2019 - Wednesday 
+```
+### New Mission 
+* Business Plan sent to Mietek Regarding Schedule Change (🌊 - current)
+* Create Google Doc Resume for 2019 (🌊 - current)
+* Update tickets on Jira and Zendesk ()
+* Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
+* Emails from Law Office and Heartland ESCI ()
+* Emails from Zumba Zin about confirmation ()
+* Budget Plan for Weekend Expenses ()
+* Update Zendesk and Jira ()
