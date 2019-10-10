@@ -485,9 +485,22 @@ My internship and employment experiences have allowed me the opportunity to deve
 ### New Mission 
 * Business Plan sent to Mietek Regarding Schedule Change (🌊 - current)
 * Create Google Doc Resume for 2019 (🌊 - current)
-* Update tickets on Jira and Zendesk ()
+* Update tickets on Jira and Zendesk (pushed - tonight)
 * Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
-* Emails from Law Office and Heartland ESCI ()
-* Emails from Zumba Zin about confirmation ()
-* Budget Plan for Weekend Expenses ()
-* Update Zendesk and Jira ()
+* Emails from Law Office and Heartland ESCI (pushed - tonight)
+* Emails from Zumba Zin about confirmation (pushed - tonight)
+* Budget Plan for Weekend Expenses (pushed - tonight)
+* Update Zendesk and Jira (pushed - tonight)
+
+
+```October10th2019 - Thursday 
+```
+### New Mission 
+* Business Plan sent to Mietek Regarding Schedule Change (🌊 - current)
+* Create Google Doc Resume for 2019 (🌊 - current)
+* Update tickets on Jira and Zendesk (pushed - tonight)
+* Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
+* Emails from Law Office and Heartland ESCI (pushed - tonight)
+* Emails from Zumba Zin about confirmation (pushed - tonight)
+* Budget Plan for Weekend Expenses (pushed - tonight)
+* Update Zendesk and Jira (pushed - tonight)
