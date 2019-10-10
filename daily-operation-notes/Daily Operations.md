@@ -504,3 +504,4 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Emails from Zumba Zin about confirmation (pushed - tonight)
 * Budget Plan for Weekend Expenses (pushed - tonight)
 * Update Zendesk and Jira (pushed - tonight)
+* Work on money making strategy for tonight ()
