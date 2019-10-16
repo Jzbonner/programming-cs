@@ -504,4 +504,15 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Emails from Zumba Zin about confirmation (pushed - tonight)
 * Budget Plan for Weekend Expenses (pushed - tonight)
 * Update Zendesk and Jira (pushed - tonight)
-* Work on money making strategy for tonight ()
+* Work on money making strategy for tonight (✔)
+
+```October16th2019 - Wednesday 
+```
+### 25 and still alive 
+* Creat Google Doc Resume for 2019 (🌊 - current)
+* Update tickets on Jira and Zendesk (pushed - tonight)
+* Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
+* Emails from Law Office and Heartland ESCI (pushed - tonight)
+* Emails from Zumba Zin about confirmation (pushed - tonight)
+* Budget Plan for Weekend Expenses (pushed - tonight)
+* Work on HTML template for REPLI (🌊 - current) 
