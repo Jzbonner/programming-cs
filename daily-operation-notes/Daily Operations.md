@@ -506,13 +506,26 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Update Zendesk and Jira (pushed - tonight)
 * Work on money making strategy for tonight (✔)
 
+
 ```October16th2019 - Wednesday 
 ```
 ### 25 and still alive 
-* Creat Google Doc Resume for 2019 (🌊 - current)
+* Create Google Doc Resume for 2019 (🌊 - current)
 * Update tickets on Jira and Zendesk (pushed - tonight)
 * Create a repo with automation scripts for JavaScript with Puppeteer.js (🌊 - current)
 * Emails from Law Office and Heartland ESCI (pushed - tonight)
 * Emails from Zumba Zin about confirmation (pushed - tonight)
 * Budget Plan for Weekend Expenses (pushed - tonight)
 * Work on HTML template for REPLI (🌊 - current) 
+
+
+```October21st2019 - Monday
+```
+### Where do we go from here? 
+* Create Google Doc Resume for 2019 (🌊 - current)
+* Update tickets on JIRA and Zendesk (🌊 - current)
+* Create a repo with automation scripts for JavaScript (🌊 - current)
+* Emails from Zumba Zin about confirmation (pushed - tonight)
+* Emails from Law Office and Heartland ESCI (pushed - tonight)
+* Work on HTML template for REPLI (pushed - tonight)
+* Budget Plan for Weekend Expenses (✔) 
