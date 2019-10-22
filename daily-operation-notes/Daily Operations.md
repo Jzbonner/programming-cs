@@ -529,3 +529,15 @@ My internship and employment experiences have allowed me the opportunity to deve
 * Emails from Law Office and Heartland ESCI (pushed - tonight)
 * Work on HTML template for REPLI (pushed - tonight)
 * Budget Plan for Weekend Expenses (✔) 
+
+
+```October22nd2019 - Tuesday
+```
+### Where do we go from here? 
+* Create Google Doc Resume for 2019 (🌊 - current)
+* Update tickets on JIRA and Zendesk (🌊 - current)
+* Create a repo with automation scripts for JavaScript (🌊 - current)
+* Emails from Zumba Zin about confirmation (pushed - tonight)
+* Emails from Law Office and Heartland ESCI (pushed - tonight)
+* Work on HTML template for REPLI (pushed - tonight)
+* Budget Plan for Weekend Expenses (✔) 
