@@ -595,7 +595,7 @@ pushed - tonight)
 
 ```October31st2019 - Thursday 
 ```
-### Emotional Damage 
+### Growth and Stability with the Uncomfortable  
 * Budget Plan for Upcoming Expenses (pushed - tonight)
 * Work on tickets and JIRA update (🌊 - current)
 * Emails from Law Office and Heartland ESCI (🌊 - current)
@@ -606,3 +606,4 @@ pushed - tonight)
 * Check on Food stamps program for November (pushed - tonight)
 * Look at TMobile options for cheaper phone plan (pushed - tonight)
 * Work on Career Development (🌊 - current)
+* Work on better cloud management for PDFs should use Google Drive for this (✔)
