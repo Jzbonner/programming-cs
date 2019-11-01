@@ -607,3 +607,19 @@ pushed - tonight)
 * Look at TMobile options for cheaper phone plan (pushed - tonight)
 * Work on Career Development (🌊 - current)
 * Work on better cloud management for PDFs should use Google Drive for this (✔)
+
+
+```November1st2019 - Friday 
+```
+* Pick Up Check from REPLI (🌊 - current)
+* Budget Plan for Upcoming Expenses (pushed - tonight)
+* Work on tickets and JIRA update (🌊 - current)
+* Emails from Law Office and Heartland ESCI (🌊 - current)
+* Finish Google Doc Resume for 2019 (🌊 - current)
+* Work on Music Library (🌊 - current)
+* Work on HTML template for REPLI (pushed - tonight)
+* Check on Student Loan forgiveness for mom (pushed - tonight)
+* Check on Food stamps program for November (pushed - tonight)
+* Look at TMobile options for cheaper phone plan (pushed - tonight)
+* Work on Career Development (🌊 - current)
+* Work on better cloud management for PDFs should use Google Drive for this (✔)
