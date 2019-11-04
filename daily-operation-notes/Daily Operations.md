@@ -611,6 +611,7 @@ pushed - tonight)
 
 ```November1st2019 - Friday 
 ```
+### Growth comes in many shapes and sizes 
 * Pick Up Check from REPLI (✔)
 * Budget Plan for Upcoming Expenses (pushed - tonight)
 * Work on tickets and JIRA update (🌊 - current)
