@@ -611,7 +611,7 @@ pushed - tonight)
 
 ```November1st2019 - Friday 
 ```
-* Pick Up Check from REPLI (🌊 - current)
+* Pick Up Check from REPLI (✔)
 * Budget Plan for Upcoming Expenses (pushed - tonight)
 * Work on tickets and JIRA update (🌊 - current)
 * Emails from Law Office and Heartland ESCI (🌊 - current)
@@ -623,3 +623,16 @@ pushed - tonight)
 * Look at TMobile options for cheaper phone plan (pushed - tonight)
 * Work on Career Development (🌊 - current)
 * Work on better cloud management for PDFs should use Google Drive for this (✔)
+
+
+```November2nd2019 - Monday 
+```
+### Different Route, Same Account 
+* Budget Plan for Upcoming Expenses (pushed - tonight)
+* Sign up for account on LeetCode (✔)
+* Start Book: Big Data Scalable Realtime Systems (✔)
+* Make changes to portfolio site (🌊 - current)
+* Look at TMobile Options for cheaper phone plan (🌊 - current)
+* Work on Career Development (🌊 - current)
+* Work on Shopping List for Groceries (🌊 - current)
+
