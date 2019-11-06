@@ -637,3 +637,13 @@ pushed - tonight)
 * Work on Career Development (🌊 - current)
 * Work on Shopping List for Groceries (🌊 - current)
 
+
+```November6th2019 - Wednesday
+```
+### Learn to Let Go as much as you Hold On 
+* Send Email to Corbin regarding schedule change (🌊 - current)
+* Work through Chapter 2 of Think Stats (🌊 - current)
+* Breathe you are doing the right thing (✔)
+* Set-up a solid vim configuration that can be traced via a dotfiles repo (🌊 - current)
+* Plan some updates to your blog site (🌊 - current)
+* Trello Board Updates! (🌊 - urgent)
