@@ -648,3 +648,16 @@ pushed - tonight)
 * Plan some updates to your blog site (🌊 - current)
 * Trello Board Updates! (🌊 - urgent)
 * Work on Development Scrum Board on monday.com (🌊 - current)
+
+
+```November7th2019 - Thursday
+```
+### Vim all the things 
+* Create proprietary vim config and layout structure to github for dotfiles (🌊 - current)
+* Create blog post about the dotfiles and its uses (pushed - tonight) 
+* Work through Chapter 3 of Think Stats (✔)
+* Send Email to Corbin regarding schedule change (🌊 - current)
+* Work through Chapter 2 of Think Stats (✔)
+* Trello Board Updates! (🌊 - urgent)
+* Work on Development Scrum Board on monday.com (🌊 - current)
+* Work on Emails from law office, school, job, etc (🌊 - current) 
