@@ -661,3 +661,10 @@ pushed - tonight)
 * Trello Board Updates! (🌊 - urgent)
 * Work on Development Scrum Board on monday.com (🌊 - current)
 * Work on Emails from law office, school, job, etc (🌊 - current) 
+* Work on having a solid day you are an incredible person stop believing in those who don't believe in you (✔) 
+
+
+```November8th2019 - Friday 
+```
+### Everything New 
+* Take some time to breathe and show appreciation ()
