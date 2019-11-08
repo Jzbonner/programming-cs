@@ -667,4 +667,13 @@ pushed - tonight)
 ```November8th2019 - Friday 
 ```
 ### Everything New 
-* Take some time to breathe and show appreciation ()
+* Take some time to breathe and show appreciation (✔)
+* Go through pluspriemers genre section and update your music library (🌊 - current)
+* Budget Plan for rest of the year (🌟 - important)
+* Send Email to Corbin regarding schedule change (🌊 - current)
+* Work through Chapter 4 of Think Stats (✔)
+* Trello Board Updates! (🌊 - urgent)
+* Work on Development Scrum Board on monday.com (🌊 - current)
+* Work on Emails from law office, school, job, etc (🌊 - current) 
+* Create proprietary vim config and layout structure to github for dotfiles (🌊 - current)
+* Create blog post about the dotfiles and its uses (pushed - tonight) 
