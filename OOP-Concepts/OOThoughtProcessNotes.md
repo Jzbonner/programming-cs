@@ -702,7 +702,55 @@ public class PizzaShop extends Shop implements Nameable {
 > In this way, we can use the same application code for both PizzaShop and DonutShop. If we add a GroceryShop application, we only have to provide the implementation and the appropriate string to the main application. No application code needs to change. When designing classes and object models it is vitally important to understand how the objects are related to each other. 
 
 ## Building Objects ~ Chapter 9 
-~ Refer to Notes on Github. 
+This chapter covers the issue of how objects are related to each other in an overall design. Both inheritance and composition represent ways in which objects interact. Objects are built differently depending on whether inheritance or composition is used. When inheritance is used the end result is a single class that incorporates all of the behaviors and attributes of the inheritance heirarchy. When composition is used, one or more classes are used to build another class. Inheritance involves the use of parent and child classes/relationships. However, composition represents interactions between distinct objects. 
 
+![ch9-diagram](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch9%20diagram%201.png)
 
+The reason to use composition is that it builds systems by combining less complex parts; as well as making parts interchangeable. Composition in the context of the development life-cycle means that systems and subsystems can be built independently, and more importantly, tested and maintained independently. 
 
+__Types of Composition__
+In general there are two types of composition: *association and aggregation*. In aggregations, you normally see only the whole, and in associations you normally see the parts that make up the whole. Aggregations are represented as "black-box" objects. Where there are clearly smaller components that create the overall functionality of the object but they are not individually specified. When exclaiming that you are buying a car, you are actually buying car doors, a car engine, a car audio system, etc. The components can be bought separately but they are often packaged together when advertised at a car dealership. The individual components have function on their own but combined they create the overall functionality of what we consider to be a car. Refer to UML diagram of a car below:
+
+![ch9-diagram2](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch9%20diagram%202.png)
+
+Associations are characterized by their combined and individual functionality. An association is typically used when one object wants another object to perform a service for it. When thinking about the build of a computer, there are many individual components that perform the service of computing. A desktop is capable of advanced mathematical computation but unless its attached to a monitor the user has no way of interacting with the desktop. Without the use of a mouse and keyboard the end user can't open and close programs or run specific software. Without a printer all the information on a computer will remain digital. Each of those components creates a service that other components in the system can take advantage of. 
+
+### Composition and its Pitfalls
+It's important to understand the importance of avoiding dependencies and cardinality. In composition you may realize that certain components inherit the same domain or mix domains. In the case of the TV example 
+
+> Sometimes there is a certain convenience in mixing domains.A good example of this pertains to the existence of TV/VCR combinations. Granted, it is convenient to have both in the same module. However, if the TV breaks, the VCR is unusable—at least as part of the unit it was purchased in
+
+The choice to favor this convenienve or avoid it will depend heavily on the intended use case of the end user. Sometimes it will be acceptable to mix domains but this should be assessed as a design decision and way the perspectives of convenience versus continued used in light of mechanical/software failure. 
+
+Cardinality is defined as the number of objects that participate in a system, and whether the participation is optional or mandatory. To determine cardinaliy, refer to the following questions: 
+    1. Which objects collaborate with other objects?
+    2. How many objects participate in each collaboration?
+    3. Is the collaboration optional or mandatory? 
+
+Cardinality is important for UML diagramming but can also help indicate which objects will benefit from composition and which objects will benefit from inheritance. Refer to diagram below: 
+
+![ch9-diagram3](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch9%20diagram%203.png)
+
+```java
+import java.util.Date; 
+
+public class Employee extends Person{
+    private String CompanyID;
+    private String Title;
+    private Date StartDate;
+    private Spouse spouse;
+    private Child[] child;
+    private Division division;
+    private JobDescription[] jobDescriptions;
+    public String getCompanyID() {return CompanyID;}
+    public String getTitle() {return Title;}
+    public Date getStartDate() {return StartDate;}
+    public void setCompanyID(String CompanyID) {}
+    public void setTitle(String Title) {}
+    public void setStartDate(int StartDate) {}
+}
+
+``` 
+**Notice that the one-to-many relationships are represented by the arrays in the code**  
+
+## Persistent Objects: Serialization and Relational Databases - Ch. 12
