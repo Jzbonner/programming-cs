@@ -309,7 +309,7 @@ Checking for potential problems, catching the mistake, and attempting to recover
 ### Concept of Scope 
 Methods represent the behaviors of an object; the state of the object is represented by attributes. There are three types of attributes: 
 * Local Attributes - Local Attributes are owned by a specific method
-* Object Attributes - When dealing with objects the keyword `this` directs the compiler toa ccess the variables of the object and not the local variables within the method bodies0
+* Object Attributes - When dealing with objects the keyword `this` directs the compiler to access the variables of the object and not the local variables within the method bodies
 * Class Attributes - When dealing with class attributes the keyword `static` (in Java) signals the following attribute to be allocated to a single piece of memory. 
 
 ### Operator Overloading 
@@ -386,7 +386,7 @@ Objects can be reused in different systems, and code should be written with reus
 Adding new features to a class might be as simple as extending an existing class, adding a few new methods, and modifying the behavior of others. Inheritance should always be the extensibility component behind your class design strategies. 
 
 #### Making Names Descriptive 
-Following a naming convention is important for your classes, attributes, and methods. It is important to not only follow a consistent naming convention but also to make names descriptive. It deters from overcommenting and allows those unfamiliar with your coding style to make sense of your coding development and implementation. 
+Following a naming convention is important for your classes, attributes, and methods. It is important to not only follow a consistent naming convention but also to make names descriptive. It deters from over-commenting and allows those unfamiliar with your coding style to make sense of your coding development and implementation. 
 
 #### Keeping the Scope as Small as Possible 
 > Minimizing the scop of global variables is a good programming style and is not specific to Object Oriented Programming. Global variables are allowed in structure development, yet they can get dicey. In fact, there really is no global data in OO development. Static attributes and methods are shared among objects of the same class; however, they are not available to objects not of the class. 
@@ -485,7 +485,7 @@ Persistence is the concept of maintaining the state of an object. When you run a
 
 There are three primary storage devices to consider: 
 * Flat file system - You can store an object in a flat file by serializing the object. This has very limited use. 
-* Relational Database - Some sort of middleware is necessary to convert an object to a relational model. 
+* Relational Database - Some sort of middle-ware is necessary to convert an object to a relational model. 
 * OO Database - This is the logical way to make objects persistent, but most companies have all their data in legacy systems and are just starting to explore object databases. Even brand-new OO applications must usually interface with legacy data.  
 
 ### Serializing and Marshalling Objects 
@@ -534,7 +534,7 @@ The _statement of work_ is a document that describes the system. Although determ
 
 One of the best ways to make sure users and developers understand the system is to create a _prototype_. A prototype can be just about anything; however, most people consider the prototype to be a simulated user interface. By creating actual screens and screen flows, it is easier for people to get an idea of what they will be working with and what the system will feel like. In any event, the prototype will not contain all the functionality of the final system. 
 
-After the requirements are documented, the process of identifying classes can begin. After identifying a loose organization of classes you need to refine this list by explaining functionality and responsibility of each class. This includes the data that the class must store and what operations the class must perform. Most classes do not exist in isolation. Although a class must fulfill certain responsibilities, many times it wil have to interact with another class to get something it wants. This is where the messages between classes apply. The final step is _creating a class model to describe the system_. The class model shows how the various classes interact within the system. 
+After the requirements are documented, the process of identifying classes can begin. After identifying a loose organization of classes you need to refine this list by explaining functionality and responsibility of each class. This includes the data that the class must store and what operations the class must perform. Most classes do not exist in isolation. Although a class must fulfill certain responsibilities, many times it will have to interact with another class to get something it wants. This is where the messages between classes apply. The final step is _creating a class model to describe the system_. The class model shows how the various classes interact within the system. 
 
 ### Case Study: Blackjack Example 
 
@@ -599,7 +599,7 @@ work through an example of how all these concepts can be applied to a real-world
 
 ### An E-Business Problem 
 __The Scenario__ 
->Let’s start our own Internet business. Let’s assume that we have a client, a small pizza shop called Papa’s Pizza. Despite the fact that it is a small, family-owned business, Papa realizes that a Web presence can help the business in many ways. Papa wants his customers to access his website, find out what Papa’s Pizza is all about, and order pizzas right from the comfort of their browsers. At the site we develop, customers will be able to access the website, select the products they want to order, and select a delivery option and time for delivery.They can eat their food at the restaurant, pick up the order, or have the order delivered. During this rollout period, Papa’s brother-in-law, who owns a donut shop called Dad’s Donuts, pays Papa a visit. Papa shows Dad the system, and Dad falls in love with it. The next day, Dad calls our company and asks us to develop a Web-based system for his donut shop.This is great, and exactly what we had hoped for. Now, how can we leverage the code that we used for the pizza shop in the system for the donut shop?
+>Let’s start our own Internet business. Let’s assume that we have a client, a small pizza shop called Papa’s Pizza. Despite the fact that it is a small, family-owned business, Papa realizes that a Web presence can help the business in many ways. Papa wants his customers to access his website, find out what Papa’s Pizza is all about, and order pizzas right from the comfort of their browsers. At the site we develop, customers will be able to access the website, select the products they want to order, and select a delivery option and time for delivery.They can eat their food at the restaurant, pick up the order, or have the order delivered. During this roll-out period, Papa’s brother-in-law, who owns a donut shop called Dad’s Donuts, pays Papa a visit. Papa shows Dad the system, and Dad falls in love with it. The next day, Dad calls our company and asks us to develop a Web-based system for his donut shop.This is great, and exactly what we had hoped for. Now, how can we leverage the code that we used for the pizza shop in the system for the donut shop?
 
 ### An E-Business Solution 
 We will begin by using a contract to factor out some of the commonality of the systems. In this case we will need to create an abstract class to factor out some of the implementation, and an interface to factor out some of the behavior. 
@@ -702,7 +702,7 @@ public class PizzaShop extends Shop implements Nameable {
 > In this way, we can use the same application code for both PizzaShop and DonutShop. If we add a GroceryShop application, we only have to provide the implementation and the appropriate string to the main application. No application code needs to change. When designing classes and object models it is vitally important to understand how the objects are related to each other. 
 
 ## Building Objects ~ Chapter 9 
-This chapter covers the issue of how objects are related to each other in an overall design. Both inheritance and composition represent ways in which objects interact. Objects are built differently depending on whether inheritance or composition is used. When inheritance is used the end result is a single class that incorporates all of the behaviors and attributes of the inheritance heirarchy. When composition is used, one or more classes are used to build another class. Inheritance involves the use of parent and child classes/relationships. However, composition represents interactions between distinct objects. 
+This chapter covers the issue of how objects are related to each other in an overall design. Both inheritance and composition represent ways in which objects interact. Objects are built differently depending on whether inheritance or composition is used. When inheritance is used the end result is a single class that incorporates all of the behaviors and attributes of the inheritance hierarchy. When composition is used, one or more classes are used to build another class. Inheritance involves the use of parent and child classes/relationships. However, composition represents interactions between distinct objects. 
 
 ![ch9-diagram](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch9%20diagram%201.png)
 
@@ -720,9 +720,9 @@ It's important to understand the importance of avoiding dependencies and cardina
 
 > Sometimes there is a certain convenience in mixing domains.A good example of this pertains to the existence of TV/VCR combinations. Granted, it is convenient to have both in the same module. However, if the TV breaks, the VCR is unusable—at least as part of the unit it was purchased in
 
-The choice to favor this convenienve or avoid it will depend heavily on the intended use case of the end user. Sometimes it will be acceptable to mix domains but this should be assessed as a design decision and way the perspectives of convenience versus continued used in light of mechanical/software failure. 
+The choice to favor this convenience or avoid it will depend heavily on the intended use case of the end user. Sometimes it will be acceptable to mix domains but this should be assessed as a design decision and way the perspectives of convenience versus continued used in light of mechanical/software failure. 
 
-Cardinality is defined as the number of objects that participate in a system, and whether the participation is optional or mandatory. To determine cardinaliy, refer to the following questions: 
+Cardinality is defined as the number of objects that participate in a system, and whether the participation is optional or mandatory. To determine cardinality, refer to the following questions: 
     1. Which objects collaborate with other objects?
     2. How many objects participate in each collaboration?
     3. Is the collaboration optional or mandatory? 
@@ -754,3 +754,8 @@ public class Employee extends Person{
 **Notice that the one-to-many relationships are represented by the arrays in the code**  
 
 ## Persistent Objects: Serialization and Relational Databases - Ch. 12
+The concept of saving the state of an object so that it can be used later is called **persistence**. The term 'persistent object' is used to define an object that can be restored and used independent of a single application.  
+
+![ch12-diagram1](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram%201.png)
+
+### Writing to a Relational Database 
