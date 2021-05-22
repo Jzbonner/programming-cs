@@ -715,7 +715,7 @@ In general there are two types of composition: *association and aggregation*. In
 
 Associations are characterized by their combined and individual functionality. An association is typically used when one object wants another object to perform a service for it. When thinking about the build of a computer, there are many individual components that perform the service of computing. A desktop is capable of advanced mathematical computation but unless its attached to a monitor the user has no way of interacting with the desktop. Without the use of a mouse and keyboard the end user can't open and close programs or run specific software. Without a printer all the information on a computer will remain digital. Each of those components creates a service that other components in the system can take advantage of. 
 
-### Composition and its Pitfalls
+### Composition and it's Pitfalls
 It's important to understand the importance of avoiding dependencies and cardinality. In composition you may realize that certain components inherit the same domain or mix domains. In the case of the TV example 
 
 > Sometimes there is a certain convenience in mixing domains.A good example of this pertains to the existence of TV/VCR combinations. Granted, it is convenient to have both in the same module. However, if the TV breaks, the VCR is unusable—at least as part of the unit it was purchased in
