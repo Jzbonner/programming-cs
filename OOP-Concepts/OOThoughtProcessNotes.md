@@ -753,9 +753,28 @@ public class Employee extends Person{
 ``` 
 **Notice that the one-to-many relationships are represented by the arrays in the code**  
 
-## Persistent Objects: Serialization and Relational Databases - Ch. 12
-The concept of saving the state of an object so that it can be used later is called **persistence**. The term 'persistent object' is used to define an object that can be restored and used independent of a single application.  
+## Persistent Objects: Serialization and Relational Databases ~ Ch. 12
+The concept of saving the state of an object so that it can be used later is called **persistence**. The term 'persistent object' is used to define an object that can be restored and used independent of a single application. 
 
-![ch12-diagram1](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram%201.png)
+![ch12-diagram1](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram%201.png) 
 
 ### Writing to a Relational Database 
+Relational Databases are built on the concept of tables. Because objects do not map conveniently map to tables, object-oriented database systems were developed. All database applications have the following structure: 
+* Database Client 
+* Database Server 
+* A Database 
+
+The database client is the user application that provides the interface to the system, that enables the users to query and update the database. SQL stands for structured query language, it is a standard way for database clients to communicate with varied vendor database systems that implement this standard. 
+
+![ch12-diagram2](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram%202.png)
+
+When working with persistent objects/data stored on databases you must establish a connection to the database before executing SQL commands. SQL Statements are used to perform tasks such as update data on a database or retrieve data from a database. In short queries include operations such as INSERT, UPDATE, DELETE, and SELECT. 
+*Note that SQL uses the single quote to delineate strings. Make sure you remember this because many programming languages use double quotes to delineate strings. This can get confusing and produce incorrect code* 
+
+### Managing Persistent Data through Relational Databases
+![ch12-diagram3](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram%203.png)
+
+The information in Chapter 12 is a little dated and this section will be revised to include more modern code examples for Database/Web Application systems. 
+
+## Objects and the Internet ~ Ch. 13
+~ Refer to notes on Github. 
