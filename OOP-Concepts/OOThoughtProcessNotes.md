@@ -777,4 +777,6 @@ When working with persistent objects/data stored on databases you must establish
 The information in Chapter 12 is a little dated and this section will be revised to include more modern code examples for Database/Web Application systems. 
 
 ## Objects and the Internet ~ Ch. 13
-~ Refer to notes on Github. 
+**Distributed Computing**: A distributed computing is a model in which components of a software system are shared among multiple computers. Even though the components are spread out across multiple computers, they run as one system. This is done in order to improve efficiency and performance. Web/Internet based applications often times depend on scripting languages as opposed to programming languages due to the demand for fast page load times and the storage and access permissions of most modern browsers. 
+
+![ch13-diagram1](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch13%20diagram%201.png)
