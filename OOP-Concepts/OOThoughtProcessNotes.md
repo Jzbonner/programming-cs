@@ -763,10 +763,10 @@ Relational Databases are built on the concept of tables. Because objects do not 
 * Database Client 
 * Database Server 
 * A Database 
-
+   v
 The database client is the user application that provides the interface to the system, that enables the users to query and update the database. SQL stands for structured query language, it is a standard way for database clients to communicate with varied vendor database systems that implement this standard. 
 
-![ch12-diagram2](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram%202.png)
+![ch12-diagram2](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch12%20diagram  %202.png)
 
 When working with persistent objects/data stored on databases you must establish a connection to the database before executing SQL commands. SQL Statements are used to perform tasks such as update data on a database or retrieve data from a database. In short queries include operations such as INSERT, UPDATE, DELETE, and SELECT. 
 *Note that SQL uses the single quote to delineate strings. Make sure you remember this because many programming languages use double quotes to delineate strings. This can get confusing and produce incorrect code* 
@@ -780,3 +780,22 @@ The information in Chapter 12 is a little dated and this section will be revised
 **Distributed Computing**: A distributed computing is a model in which components of a software system are shared among multiple computers. Even though the components are spread out across multiple computers, they run as one system. This is done in order to improve efficiency and performance. Web/Internet based applications often times depend on scripting languages as opposed to programming languages due to the demand for fast page load times and the storage and access permissions of most modern browsers. 
 
 ![ch13-diagram1](https://jzb-lib.nyc3.digitaloceanspaces.com/image-content/ootp%20-%20ch13%20diagram%201.png)
+ 
+Client-server architecture is implemented to separate the front-end of the application from the back-end. Because anyone can open a web browser, it would cause security concerns if you let the client access the database directly on the front-end. Thus, when the client needs to inspect or update the database, it must request the operation from the server. You can think of scripting languages as bridges between traditional programming paradigms and object oriented models. Scripting languages allow for distributed computing. 
+
+## Design Patters ~ Ch. 15
+Creating software systems is akin to creating real-world systems. Design patterns are perhaps one of the most influential aspects of object oriented programming because they lend themselves perfectly to the concept of reusable software development. The basic concept of design patterns revolves around the principle of best practices. By *best practices*, we mean that when and good and efficient solutions are created, these solutions are documented in a way that others can benefit from previous successes - as well as learn from the failures. 
+
+There four elements to a design pattern 
+1. The pattern name is a handle we can use to describe a design problem, its solution, and consequences. Naming a pattern immediately increases our design vocabulary. 
+2. The problem describes when to apply the pattern. It explains the problem and its content. It might describe specific design problems, class or object structures. Sometimes the problem will include a list of conditions that must be met before it makes sense to apply the pattern. 
+3. The solution describes the elements that make up the design, their relationships, responsibilities and collaborations. The pattern provides an abstract description of a design problem, and how a general arrangement of elements (i.e. classes and objects) solves it. 
+4. The consequences are the results and trade-offs of applying the pattern. The consequences for software often concern space and time trade-offs. They might address language and implementation issues as well. Because reuse is often a factor in object-oriented design, the consequences of a pattern include its impact on a system's flexibility, extensibility, or portability. 
+
+The Model/View/Controller paradigm was used to create user interfaces. The design patterns defines the MVC components in the following manner: The Model is the application object, the View is the screen presentation, and the Controller defines the way the user interface reacts to user input. If you follow the MVC concept and separate the user interface, business logic, and data, your system will be much more flexible and robust. Although MVC is a great design, it can be be somewhat complex, in that there must be a lot of attention paid to the upfront design. This is a problem with object-oriented design in general - there is a fine line between good design and cumbersome design. 
+
+Types of Design Patterns - Categorically: 
+1. Creational Patterns - create objects for you, rather than having you instantiate objects directly. This gives your program more flexibility in deciding which objects need to be created for a given case 
+2. Structural Patterns - this design pattern helps you compose groups of objects into larger structures, such as complex user interfaces, or accounting data
+3. Behavioral Patterns - help you define the communication between objects in your system and how the flow is controlled in a complex program
+
